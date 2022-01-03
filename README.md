@@ -22,7 +22,7 @@ Contents of this guide:
   - [Talent calculator](#talent-calculator)
   - [Talent reset](#talent-reset)
   - [The Ironman challenge](#ironman-challenge)
-  - [Rares and elites, and mobs in general](#rares-and-elites-and-mobs-in-general)
+  - [Rares, elites, and mobs in general](#rares-elites-and-mobs-in-general)
   - [Other oddities](#other-oddities)
   - [Making suggestions](#making-suggestions)
   - [Helping the server](#helping-the-server)
@@ -90,7 +90,7 @@ Read all the points, if none of them applies, ask for help in the support or add
 
 ### My talent tree doesn't work properly or is still the same as original vanilla
 
-The game does not allow you to put 5 points on a talent that should allow 5 points? The talent trees you see are not like on the [community maintained talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator)?
+The game does not allow you to put 5 points on a talent that should allow 5 points? The talent trees you see are not like on the [talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator)?
 
 #### Solution:
 
@@ -106,7 +106,7 @@ Sometimes when logging in, as the game finishes loading, you get a "Disconnected
 #### A potential solution that sometimes work
 
 - Login in with a character that is located somewhere else
-  - If you don't have one, just create a throwaway one, that has a different spawn point
+  - If you don't have one, just create a throwaway one, that has a different spawn point if you are still level 1
 - Log in with your original character
 
 ### RNG issues
@@ -141,9 +141,11 @@ To change your password, log in, and type in the chat
 `.account password <old password> <new password> <new password>`
 On success the server will respond with a `The password was changed` message
 
+It is recommended to whisper something to yourself before typing it in to make sure your won't accidentally say your password out loud even if you make a mistake. (`/w <your character's name> .`)
+
 ### Server population and uptime
 
-Type `.server info` in game. The response will let you know the current active player count, the maximum since the last restart, the number of queued people and the server's current uptime.
+Type `.server info` in game. The response will let you know the current active player count, the maximum player count since the last restart, the number of queued people and the server's current uptime.
 
 ### Currently available raid content
 
@@ -165,9 +167,9 @@ The talent reset cost has been capped to 5G maximum.
 
 ### Ironman challenge
 
-There is an ironman challenge for those who want to take part in it. When creating a character you get a buff that gives you marginal bonuses while you are leveling. Upon your first death, you lose this buff and an announcement is made to the server of the circumstances of your demise. There are no other consequence of failing the challenge currently.
+There is an ironman challenge for those who want to take part in it. When creating a character you get a buff that gives you marginal bonuses while you are leveling. Upon your first death, you lose this buff and an announcement is made to the server of the circumstances of your demise. There are no other consequences of failing the challenge currently.
 
-If you do not wish to take part, even tho there aren't really any downsides, just remove the buff on lvl 1 by right clicking it.
+If you do not wish to take part, even though there aren't really any downsides, just remove the buff on lvl 1 by right clicking it.
 
 The badassery of reaching lvl 60 with the buff still intact are rewarded with four things:
 - A cosmetic item proving the deed
@@ -175,9 +177,9 @@ The badassery of reaching lvl 60 with the buff still intact are rewarded with fo
 - An announcement made honouring your glory
 - The sweet release from the eternal fear of in-game death, as the original buff is finally gone.
 
-Also worth mentioning that the challenge also cannot be lost due to fall damage, or being killed in PvP.
+Also worth mentioning that the challenge cannot be lost due to fall damage or being killed in PvP.
 
-### Rares and elites, and mobs in general
+### Rares, elites, and mobs in general
 
 You may have seen that your character is a bit stronger than the vanilla equivalent would be. To compensate for this, the mobs have also been working out. Taking on a rare mob is often the cause of one's first death, as they rarely skip leg day and are always ready for some ass kicking, so adventurer beware!
 
@@ -189,13 +191,13 @@ Due to the low population, cross-faction cooperation was temporarily enabled so 
 
 #### Summoning doesn't always work?!
 
-Summoning spells have been level limited to avoid people abusing them. Now to summon someone of a higher level, the summoner needs to be at most 10 levels lower than the person being summoned. A lvl 30 player will be able to summon a lvl 40, but not a lvl 41 player.
+Summoning spells have been level limited to avoid people abusing them. Now to summon someone of a higher level, the summoner needs to be at most 10 levels lower than the person being summoned. A level 30 player will be able to summon a level 40, but not a level 41 player.
 
-Also when a warlock does the summoning one helper is enough.
+Also when a warlock does the summoning one helper is enough to complete the spell.
 
 #### Meeting stones
 
-Meeting Stones, also known as Summoning Stones now require 4 players to be present to be able to summon someone. The first player's level is used for the level restriction calculation, the level of the helpers doesn't matter.
+Meeting Stones, also known as Summoning Stones now require 4 players to be present to be able to summon someone. The first player's level is used for the level restriction calculation, the level of the helpers don't matter.
 
 #### Dangerous heights
 
@@ -205,9 +207,9 @@ There is also a phenomena, where suddenly out of nowhere you suffer a massive fa
 
 ### Making suggestions
 
-There are some technical limitations that the developers are unwilling to take on, and for a good reason. If your suggestion requires the wow.exe to be modified, it is an automatic no-no, for it has the potential to make massive unforeseen issues. This is non-negotiable and no amount of pleading will make this change.
+There are some technical limitations that the developers are unwilling to take on, and for a good reason. If your suggestion requires the WoW.exe to be modified, it is an automatic no-no, for it has the potential to make massive unforeseen issues. This is non-negotiable and no amount of pleading will make this change.
 
-#### Suggesting resetting the server
+#### Suggestions to reset the server
 
 Don't. Just don't.
 
@@ -215,11 +217,11 @@ Don't. Just don't.
 
 The server is free to play but the necessary upkeep is not. Donations are welcome and appreciated, but they are just that, donations. Find more information about this on the [website](https://vanillaplus.org/), under the `Support Project` and `Rewards` menu points.
 
-Bringing positive attention to the server is also a great way to help the project. A good example of this would be raising the attention of like minded individuals, such as creating content on twitch or youtube (see [Hamsterwheel](https://www.youtube.com/channel/UCQkKf5qwYKyJlyhZPbdAVmw)). A bad example would be spamming forums and competitors with links to the server. Committing acts of terror to coerce people to play on the server is also shunned. Please do **NOT** engage in war crimes to make the server more popular either.
+Bringing positive attention to the server is also a great way to help the project. A good example of this would be raising the attention of like minded individuals, such as creating content on twitch or youtube (see [Hamsterwheel](https://www.youtube.com/channel/UCQkKf5qwYKyJlyhZPbdAVmw)). A bad example would be spamming forums and competitors with links to the server. Committing acts of terror to coerce people to play on the server is also shunned. Please do **NOT** engage in war crimes to make the server more popular.
 
 ## Addons
 
-There are some community developed addons that are made specificly for the server, but any addon made for `1.12.1` will work. Some have dependencies that you will need to install, always read the readme file.
+There are some community developed addons that are made specificly for the server, but any addon made for `1.12.1` will work. Some have dependencies that you will need to install so always read the readme file.
 You may also want to check the pinned messages of the #addons channel and may ask for help on [Discord](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect). If you can't find your addon folder at `<wow folder>\Interface\AddOns`, starting the game successfully will create it for you.
 
 ### Server specific addons:
