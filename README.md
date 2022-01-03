@@ -5,6 +5,7 @@ Content of this guide:
   - [Not using the launcher](#not-using-the-launcher)
   - [Using the launcher](#using-the-launcher)
 - [Technical issues](#technical-issues)
+  - [Loading takes forever](#loading-takes-forever)
   - [My screen turned black](#my-screen-turned-to-black)
   - [My addons don't work properly](#my-addons-dont-work-properly)
   - [My talent tree doesn't work properly or is still the same as original vanilla](#my-talent-tree-doesnt-work-properly-or-is-still-the-same-as-original-vanilla)
@@ -43,6 +44,10 @@ Content of this guide:
 ## Technical issues
 
 These are the issues we seen keep popping up in discord time and time again. Check the list if you run into one of these. If your issue is not listed, ask for help in the appropriate channel, providing as much information as you can, so others don't have to interrogate you to be able to help.
+
+### Loading takes forever
+
+Due to the custom modifications the loading time can be much longer than usual, however this is normal.
 
 ### My screen turned to black
 
