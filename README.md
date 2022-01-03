@@ -18,6 +18,7 @@ Contents of this guide:
   - [XP rates](#xp-rates)
   - [The Ironman challenge](#ironman-challenge)
   - [Rares and elites, and mobs in general](#rares-and-elites-and-mobs-in-general)
+  - [Other oddities](#other-oddities)
   - [Making suggestions](#making-suggestions)
   - [Helping the server](#helping-the-server)
 - [Addons](#addons)
@@ -101,6 +102,8 @@ You seem to get dodged after missing, after getting parried just to be dodged ag
 
 ## Things to know about when starting on the server
 
+To see the common chat, type `/join world`
+
 ### Where can I see the list of the changes?
 
 There are no comprehensive list of changes, partially due to the spirit of the server. Having such a list would remove the sense of discovery and experimentation that was not seen in ages in the vanilla community.
@@ -133,6 +136,20 @@ The badassery of reaching lvl 60 with the buff still intact are rewarded with fo
 ### Rares and elites, and mobs in general
 
 You may have seen that your character is a bit stronger than the vanilla equivalent would be. To compensate for this, the mobs have also been working out. Taking on a rare mob is often the cause of one's first death, as they rarely skip leg day and are always ready for some ass kicking, so adventurer beware!
+
+### Other oddities
+
+#### I can talk to the other faction?!
+
+Due to the low population, cross-faction cooperation was temporarily enabled so we can have fun together regardless of race. The developers promised that this will be removed once a satisfactory stable population is reached, so do not rely on this, friends will become foes again soon.
+
+#### Summoning doesn't always work?!
+
+Summoning spells have been limited to avoid people abusing them. Now to summon someone, the summoner needs to be within the 10 level range of the person that is being summoned. A lvl 30 player will be able to summon a lvl 40, but not a lvl 41 player.
+
+#### Meeting stones
+
+Meeting Stones, also known as Summoning Stones now require 4 players to be present to be able to summon someone. The first player's level is used for the level restriction calculation, the level of the helpers doesn't matter.
 
 ### Making suggestions
 
