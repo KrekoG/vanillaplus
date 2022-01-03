@@ -18,6 +18,7 @@ Contents of this guide:
   - [XP rates](#xp-rates)
   - [Changing account password](#changing-account-password)
   - [Server population and uptime](#server-population-and-uptime)
+  - [Currently available raid content](#currently-available-raid-content)
   - [Talent calculator](#talent-calculator)
   - [Talent reset](#talent-reset)
   - [The Ironman challenge](#ironman-challenge)
@@ -143,6 +144,16 @@ On success the server will respond with a `The password was changed` message
 ### Server population and uptime
 
 Type `.server info` in game. The response will let you know the current active player count, the maximum since the last restart, the number of queued people and the server's current uptime.
+
+### Currently available raid content
+
+- Lower Blackrock Spire
+- Upper Blackrock Spire
+- Onyxia's Lair
+- Molten Core
+- Azuregos
+- Lord Kazzak
+- Kurinnaxx
 
 ### Talent calculator
 
