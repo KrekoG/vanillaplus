@@ -18,6 +18,7 @@ Contents of this guide:
   - [Talent calculator](#talent-calculator)
   - [XP rates](#xp-rates)
   - [Talent reset](#talent-reset)
+  - [Changing account password](#changing-account-password)
   - [The Ironman challenge](#ironman-challenge)
   - [Rares and elites, and mobs in general](#rares-and-elites-and-mobs-in-general)
   - [Other oddities](#other-oddities)
@@ -137,6 +138,12 @@ The talent calculator linked in the launcher is currently NOT accurate. Use the 
 
 The talent reset cost has been capped to 5G maximum.
 
+### Changing account password
+
+To change your password, log in, and type in the chat
+`.account password <old password> <new password> <new password>`
+On success the server will respond with a `The password was changed` message
+
 ### Ironman challenge
 
 There is an ironman challenge for those who want to take part in it. When creating a character you get a buff that gives you marginal bonuses while you are leveling. Upon your first death, you lose this buff and an announcement is made to the server of the circumstances of your demise. There are no other consequence of failing the challenge currently.
@@ -163,7 +170,9 @@ Due to the low population, cross-faction cooperation was temporarily enabled so 
 
 #### Summoning doesn't always work?!
 
-Summoning spells have been limited to avoid people abusing them. Now to summon someone of a higher level, the summoner needs to be at most 10 levels lower than the person being summoned. A lvl 30 player will be able to summon a lvl 40, but not a lvl 41 player.
+Summoning spells have been level limited to avoid people abusing them. Now to summon someone of a higher level, the summoner needs to be at most 10 levels lower than the person being summoned. A lvl 30 player will be able to summon a lvl 40, but not a lvl 41 player.
+
+Also when a warlock does the summoning one helper is enough.
 
 #### Meeting stones
 
@@ -178,6 +187,10 @@ There is also a phenomena, where suddenly out of nowhere you suffer a massive fa
 ### Making suggestions
 
 There are some technical limitations that the developers are unwilling to take on, and for a good reason. If your suggestion requires the wow.exe to be modified, it is an automatic no-no, for it has the potential to make massive unforeseen issues. This is non-negotiable and no amount of pleading will make this change.
+
+#### Suggesting resetting the server
+
+Don't. Just don't.
 
 ### Helping the server
 
