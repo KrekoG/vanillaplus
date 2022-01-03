@@ -11,11 +11,11 @@ Content of this guide:
   - [RNG issues](#rng-issues)
 - [Things to know about when starting on the server](#things-to-know-about-when-starting-on-the-server)
   - [Where can I see the list of the changes?](#where-can-i-see-the-list-of-the-changes)
+  - [Talent calculator](#talent-calculator)
   - [The Ironman challenge](#ironman-challenge)
   - [Rares and elites, and mobs in general](#rares-and-elites-and-mobs-in-general)
   - [Making suggestions](#making-suggestions)
   - [Helping the server](#helping-the-server)
-- [Talent calculator](#talent-calculator)
 - [Addons](#addons)
 - [Other modifications](#other-modifications)
 - [About](#about)
@@ -99,6 +99,10 @@ There are no comprehensive list of changes, partially due to the spirit of the s
 
 It's also a lot of work... Just ask the others in the discord if you are curious of something, or try it out yourself.
 
+### Talent calculator
+
+The talent calculator on the website is currently NOT accurate. Use the [talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator/) created and maintained by [Thirinena](https://github.com/hawaiisa) instead.
+
 ### Ironman challenge
 
 There is an ironman challenge for those who want to take part in it. When creating a character you get a buff that gives you marginal bonuses while you are leveling. Upon your first death, you lose this buff and an announcement is made to the server of the circumstances of your demise. There are no other consequence of failing the challenge currently.
@@ -124,12 +128,6 @@ There are some technical limitations that the developers are unwilling to take o
 The server is free to play but the necessary upkeep is not. Donations are welcome and appreciated, but they are just that, donations. Find more information about this on the [website](https://vanillaplus.org/), under the `Support Project` and `Rewards` menu points.
 
 Bringing positive attention to the server is also a great way to help the project. A good example of this would be raising the attention of like minded individuals, such as creating content on twitch or youtube (see [Hamsterwheel](https://www.youtube.com/channel/UCQkKf5qwYKyJlyhZPbdAVmw)). A bad example would be spamming forums and competitors with links to the server. Committing acts of terror to coerce people to play on the server is also shunned. Please do **NOT** engage in war crimes to make the server more popular either.
-
-## Talent calculator
-
-The talent calculator on the server's website is currently NOT accurate. Use the online talent calculator created by [Thirinena](https://github.com/hawaiisa) instead.
-
-https://hawaiisa.github.io/vanillaplus-talent-calculator/
 
 ## Addons
 
