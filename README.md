@@ -8,7 +8,7 @@ Contents of this guide:
   - [Not using the launcher](#not-using-the-launcher)
 - [Technical issues](#technical-issues)
   - [Loading takes forever](#loading-takes-forever)
-  - [My screen turned black](#my-screen-turned-to-black)
+  - [My screen turned to black](#my-screen-turned-to-black)
   - [My addons don't work properly](#my-addons-dont-work-properly)
   - [My talent tree doesn't work properly or is still the same as original vanilla](#my-talent-tree-doesnt-work-properly-or-is-still-the-same-as-original-vanilla)
   - [Getting disconnected from the server as you log in](#getting-disconnected-from-the-server-as-you-log-in)
@@ -60,7 +60,7 @@ Due to the custom modifications the loading time can be much longer than usual, 
 
 ### My screen turned to black
 
-You set the game to windowed mode and it turned black
+You set the game to windowed mode and it turned to black
 
 #### Solution:
 
