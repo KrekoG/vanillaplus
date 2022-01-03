@@ -20,16 +20,18 @@ Content of this guide:
 
 ## How to play on the server
 
-- Register an account on the [website](https://vanillaplus.org/)
-- Install any non-modified 1.12.1 wow client
-- Download the [patch](https://vanillaplus.org/uploads/patch-3.mpq) from the website and place it in the `<wow folder>/Data` folder
-  - If you are a Mac user, make sure the file extension is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
-- Change the content of your `<wow folder>/realmlist.wtf` to be ```set realmlist logon.vanillaplus.org```
-- Remove any previously downloaded cache by deleting the contents of your `<wow folder>/WDB` folder, if it exists
-  - This step must also be repeated if you plan to connect to another server with the same client later
-- Log in and enjoy the game
-  - This will create your `<wow folder>\Interface\AddOns` folder in case you didn't have one before
-- You may also want to consider joining the [discord server](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect)
+- Not using the launcher
+  - Register an account on the [website](https://vanillaplus.org/)
+  - Install any non-modified 1.12.1 wow client
+  - Download the [patch](https://vanillaplus.org/uploads/patch-3.mpq) from the website and place it in the `<wow folder>/Data` folder
+    - If you are a Mac user, make sure the file extension is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
+    - If you are a Windows user, make sure you don't install the game in a system folder such as `Program Files` to avoid issues with access rights.
+  - Change the content of your `<wow folder>/realmlist.wtf` to be ```set realmlist logon.vanillaplus.org```
+  - Remove any previously downloaded cache by deleting the contents of your `<wow folder>/WDB` folder, if it exists
+    - This step must also be repeated if you plan to connect to another server with the same client later
+  - Log in and enjoy the game
+    - This will create your `<wow folder>\Interface\AddOns` folder in case you didn't have one before
+  - You may also want to consider joining the [discord server](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect)
 
 ## Technical issues
 
