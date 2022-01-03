@@ -4,8 +4,8 @@ This is a brief guide to help out new players starting on the server.
 
 Contents of this guide:
 - [How to play on the server](#how-to-play-on-the-server)
-  - [Not using the launcher](#not-using-the-launcher)
   - [Using the launcher](#using-the-launcher)
+  - [Not using the launcher](#not-using-the-launcher)
 - [Technical issues](#technical-issues)
   - [Loading takes forever](#loading-takes-forever)
   - [My screen turned black](#my-screen-turned-to-black)
@@ -32,6 +32,10 @@ Contents of this guide:
 
 ## How to play on the server
 
+### Using the launcher
+
+*This section is yet to be written.*
+
 ### Not using the launcher
 
 - Register an account on the [website](https://vanillaplus.org/)
@@ -45,10 +49,6 @@ Contents of this guide:
 - Log in and enjoy the game
   - You may also want to consider joining the [discord server](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect)
   - Starting the game will create your `<wow folder>\Interface\AddOns` folder in case you didn't have one before
-
-### Using the launcher
-
-*This section is yet to be written.*
 
 ## Technical issues
 
