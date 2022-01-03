@@ -11,11 +11,13 @@ Contents of this guide:
   - [My screen turned black](#my-screen-turned-to-black)
   - [My addons don't work properly](#my-addons-dont-work-properly)
   - [My talent tree doesn't work properly or is still the same as original vanilla](#my-talent-tree-doesnt-work-properly-or-is-still-the-same-as-original-vanilla)
+  - [Getting disconnected from the server as you log in](#getting-disconnected-from-the-server-as-you-log-in)
   - [RNG issues](#rng-issues)
 - [Things to know about when starting on the server](#things-to-know-about-when-starting-on-the-server)
   - [Where can I see the list of the changes?](#where-can-i-see-the-list-of-the-changes)
   - [Talent calculator](#talent-calculator)
   - [XP rates](#xp-rates)
+  - [Talent reset](#talent-reset)
   - [The Ironman challenge](#ironman-challenge)
   - [Rares and elites, and mobs in general](#rares-and-elites-and-mobs-in-general)
   - [Other oddities](#other-oddities)
@@ -93,6 +95,16 @@ The game does not allow you to put 5 points on a talent that should allow 5 poin
 - Make sure you have no other custom patches that overwrites the content of `patch-3.MPQ`. The load order is alphabetical.
 - Delete the game's cache by deleting the content of `<wow folder>/WDB` folder.
 
+### Getting disconnected from the server as you log in
+
+Sometimes when logging in, as the game finishes loading, you get a "Disconnected from server" message.
+
+#### A potential solution that sometimes work
+
+- Login in with a character that is located somewhere else
+  - If you don't have one, just create a throwaway one, that has a different spawn point
+- Log in with your original character
+
 ### RNG issues
 You seem to get dodged after missing, after getting parried just to be dodged again? You have seen people alluding that the RNG engine of the server is not working correctly?
 
@@ -120,6 +132,10 @@ The talent calculator linked in the launcher is currently NOT accurate. Use the 
 - Quests: x3
 - Elite & Dungeon Quests: x10
 - Rested XP bonus gaining speed: x5
+
+### Talent reset
+
+The talent reset cost has been capped to 5G maximum.
 
 ### Ironman challenge
 
