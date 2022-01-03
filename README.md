@@ -1,6 +1,8 @@
 # vanilla+
 
-Content of this guide:
+This is a brief guide to help out new players starting on the server.
+
+Contents of this guide:
 - [How to play on the server](#how-to-play-on-the-server)
   - [Not using the launcher](#not-using-the-launcher)
   - [Using the launcher](#using-the-launcher)
@@ -13,6 +15,7 @@ Content of this guide:
 - [Things to know about when starting on the server](#things-to-know-about-when-starting-on-the-server)
   - [Where can I see the list of the changes?](#where-can-i-see-the-list-of-the-changes)
   - [Talent calculator](#talent-calculator)
+  - [XP rates](#xp-rates)
   - [The Ironman challenge](#ironman-challenge)
   - [Rares and elites, and mobs in general](#rares-and-elites-and-mobs-in-general)
   - [Making suggestions](#making-suggestions)
@@ -107,6 +110,13 @@ It's also a lot of work... Just ask the others in the discord if you are curious
 ### Talent calculator
 
 The talent calculator on the website is currently NOT accurate. Use the [talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator/) created and maintained by [Thirinena](https://github.com/hawaiisa) instead.
+
+### XP rates
+
+- Kills: x2
+- Quests: x3
+- Elite & Dungeon Quests: x10
+- Rested XP bonus gaining speed: x5
 
 ### Ironman challenge
 
