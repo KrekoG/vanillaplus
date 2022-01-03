@@ -133,6 +133,8 @@ The badassery of reaching lvl 60 with the buff still intact are rewarded with fo
 - An announcement made honouring your glory
 - The sweet release from the eternal fear of in-game death, as the original buff is finally gone.
 
+Also worth mentioning that the challenge also cannot be lost due to fall damage, or being killed in PvP.
+
 ### Rares and elites, and mobs in general
 
 You may have seen that your character is a bit stronger than the vanilla equivalent would be. To compensate for this, the mobs have also been working out. Taking on a rare mob is often the cause of one's first death, as they rarely skip leg day and are always ready for some ass kicking, so adventurer beware!
@@ -145,11 +147,17 @@ Due to the low population, cross-faction cooperation was temporarily enabled so 
 
 #### Summoning doesn't always work?!
 
-Summoning spells have been limited to avoid people abusing them. Now to summon someone, the summoner needs to be within the 10 level range of the person that is being summoned. A lvl 30 player will be able to summon a lvl 40, but not a lvl 41 player.
+Summoning spells have been limited to avoid people abusing them. Now to summon someone of a higher level, the summoner needs to be at most 10 levels lower than the person being summoned. A lvl 30 player will be able to summon a lvl 40, but not a lvl 41 player.
 
 #### Meeting stones
 
 Meeting Stones, also known as Summoning Stones now require 4 players to be present to be able to summon someone. The first player's level is used for the level restriction calculation, the level of the helpers doesn't matter.
+
+#### Dangerous heights
+
+There is an increased fall damage on the server.
+
+There is also a phenomena, where suddenly out of nowhere you suffer a massive fall damage, which sometimes kills you. This is a bug and there is not much you can do to avoid it, other than avoiding the places where this happened. Think of it like your character just fall. This is one of the reasons, why you can't loose the Ironman Challenge to fall damage.
 
 ### Making suggestions
 
