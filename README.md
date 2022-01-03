@@ -28,10 +28,10 @@ Content of this guide:
     - If you are a Windows user, make sure you don't install the game in a system folder such as `Program Files` to avoid issues with access rights.
   - Change the content of your `<wow folder>/realmlist.wtf` to be ```set realmlist logon.vanillaplus.org```
   - Remove any previously downloaded cache by deleting the contents of your `<wow folder>/WDB` folder, if it exists
-    - This step must also be repeated if you plan to connect to another server with the same client later
+    - This step must also be repeated if you plan to connect back to another wow server with the same client later
   - Log in and enjoy the game
-    - This will create your `<wow folder>\Interface\AddOns` folder in case you didn't have one before
-  - You may also want to consider joining the [discord server](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect)
+    - You may also want to consider joining the [discord server](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect)
+    - Starting the game will create your `<wow folder>\Interface\AddOns` folder in case you didn't have one before
 
 ## Technical issues
 
@@ -127,7 +127,7 @@ https://hawaiisa.github.io/vanillaplus-talent-calculator/
 ## Addons
 
 There are some community developed addons that are made specificly for the server, but any addon made for `1.12.1` will work. Some have dependencies that you will need to install, always read the readme file.
-You may also want to check the pinned messages of the #addons channel and may ask for help on [Discord](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect).
+You may also want to check the pinned messages of the #addons channel and may ask for help on [Discord](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect). If you can't find your addon folder at `<wow folder>\Interface\AddOns`, starting the game successfully will create it for you.
 
 ### Server specific addons:
 - [AtlasLoot Enhanced for Vanilla+](https://github.com/hawaiisa/Atlas)
