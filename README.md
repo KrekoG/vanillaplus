@@ -1,22 +1,22 @@
 # vanilla+
 
 Content of this guide:
-- [How to play on the server]()
-- [Technical issues]()
-  - [My screen turned black]()
-  - [My addons don't work properly]()
-  - [My talent tree doesn't work properly or is still the same as original vanilla]()
-  - [RNG issues]()
-- [Things to know about when starting on the server]()
-  - [Where can I see the list of the changes?]()
-  - [The Ironman challenge]()
-  - [Rares and elites, and mobs in general]()
-  - [Making suggestions]()
-  - [Helping the server]()
-- [Talent calculator]()
-- [Addons]()
-- [Other modifications]()
-- [About]()
+- [How to play on the server](#how-to-play-on-the-server)
+- [Technical issues](#technical-issues)
+  - [My screen turned black](#my-screen-turned-to-black)
+  - [My addons don't work properly](#my-addons-dont-work-properly)
+  - [My talent tree doesn't work properly or is still the same as original vanilla](#my-talent-tree-doesnt-work-properly-or-is-still-the-same-as-original-vanilla)
+  - [RNG issues](#rng-issues)
+- [Things to know about when starting on the server](#things-to-know-about-when-starting-on-the-server)
+  - [Where can I see the list of the changes?](#where-can-i-see-the-list-of-the-changes)
+  - [The Ironman challenge](#ironman-challenge)
+  - [Rares and elites, and mobs in general](#rares-and-elites-and-mobs-in-general)
+  - [Making suggestions](#making-suggestions)
+  - [Helping the server](#helping-the-server)
+- [Talent calculator](#talent-calculator)
+- [Addons](#addons)
+- [Other modifications](#other-modifications)
+- [About](#about)
 
 ## How to play on the server
 
