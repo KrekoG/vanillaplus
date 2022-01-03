@@ -112,7 +112,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
 
 ### Talent calculator
 
-The talent calculator on the website is currently NOT accurate. Use the [talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator/) created and maintained by [Thirinena](https://github.com/hawaiisa) instead.
+The talent calculator linked in the launcher is currently NOT accurate. Use the [talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator/) created and maintained by [Thirinena](https://github.com/hawaiisa) instead.
 
 ### XP rates
 
