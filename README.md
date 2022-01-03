@@ -59,12 +59,12 @@ Due to the custom modifications the loading time can be much longer than usual, 
 
 ### My screen turned to black
 
-You set the game to windowed mode and it turns black
+You set the game to windowed mode and it turned black
 
 #### Solution:
 
 - Make sure your client is not running
-- Add the following lines to the end of your `<wow folder>/WTF/config.wtf` file:
+- Add the following lines to the end of your `<wow folder>/WTF/Config.wtf` file:
 
 ```
 SET gxWindow "1"
