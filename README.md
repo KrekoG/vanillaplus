@@ -15,10 +15,11 @@ Contents of this guide:
   - [RNG issues](#rng-issues)
 - [Things to know about when starting on the server](#things-to-know-about-when-starting-on-the-server)
   - [Where can I see the list of the changes?](#where-can-i-see-the-list-of-the-changes)
-  - [Talent calculator](#talent-calculator)
   - [XP rates](#xp-rates)
-  - [Talent reset](#talent-reset)
   - [Changing account password](#changing-account-password)
+  - [Server population and uptime](#server-population-and-uptime)
+  - [Talent calculator](#talent-calculator)
+  - [Talent reset](#talent-reset)
   - [The Ironman challenge](#ironman-challenge)
   - [Rares and elites, and mobs in general](#rares-and-elites-and-mobs-in-general)
   - [Other oddities](#other-oddities)
@@ -91,6 +92,7 @@ Read all the points, if none of them applies, ask for help in the support or add
 The game does not allow you to put 5 points on a talent that should allow 5 points? The talent trees you see are not like on the [community maintained talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator)?
 
 #### Solution:
+
 - Download the server's custom patch and make sure it is at the correct path (`<wow folder>/Data/patch-3.MPQ`).
   - If you are a Mac user, make sure the file extension is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
 - Make sure you have no other custom patches that overwrites the content of `patch-3.MPQ`. The load order is alphabetical.
@@ -107,9 +109,11 @@ Sometimes when logging in, as the game finishes loading, you get a "Disconnected
 - Log in with your original character
 
 ### RNG issues
+
 You seem to get dodged after missing, after getting parried just to be dodged again? You have seen people alluding that the RNG engine of the server is not working correctly?
 
 #### Solutions:
+
 - Run your own [experiment](https://github.com/KrekoG/HitAndMissCounter).
   - We have proven again and again that the complaints are not valid. Feel free to ignore said complaints until actual evidence is provided.
 
@@ -123,10 +127,6 @@ There are no comprehensive list of changes, partially due to the spirit of the s
 
 It's also a lot of work... Just ask the others in the discord if you are curious of something, or try it out yourself.
 
-### Talent calculator
-
-The talent calculator linked in the launcher is currently NOT accurate. Use the [talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator/) created and maintained by [Thirinena](https://github.com/hawaiisa) instead.
-
 ### XP rates
 
 - Kills: x2
@@ -134,15 +134,23 @@ The talent calculator linked in the launcher is currently NOT accurate. Use the 
 - Elite & Dungeon Quests: x10
 - Rested XP bonus gaining speed: x5
 
-### Talent reset
-
-The talent reset cost has been capped to 5G maximum.
-
 ### Changing account password
 
 To change your password, log in, and type in the chat
 `.account password <old password> <new password> <new password>`
 On success the server will respond with a `The password was changed` message
+
+### Server population and uptime
+
+Type `.server info` in game. The response will let you know the current active player count, the maximum since the last restart, the number of queued people and the server's current uptime.
+
+### Talent calculator
+
+The talent calculator linked in the launcher is currently NOT accurate. Use the [talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator/) created and maintained by [Thirinena](https://github.com/hawaiisa) instead.
+
+### Talent reset
+
+The talent reset cost has been capped to 5G maximum.
 
 ### Ironman challenge
 
