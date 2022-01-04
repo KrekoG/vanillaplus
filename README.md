@@ -238,6 +238,14 @@ There is also a phenomena, where suddenly out of nowhere you suffer a massive fa
 
 All of the action houses are connected. Horde, Alliance, Neutral, all of them.
 
+#### Cheap rides
+
+Your first riding lessons at level 40 are free of charge
+
+#### Public transport
+
+Some zeppelins and boats change their destinations. Talk to the NPC before boarding to make sure you don't end up somewhere you don't want to!
+
 ### Making suggestions
 
 There are some technical limitations that the developers are unwilling to take on, and for a good reason. If your suggestion requires the WoW.exe to be modified, it is an automatic no-no, for it has the potential to make massive unforeseen issues. This is non-negotiable and no amount of pleading will make this change.
