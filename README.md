@@ -276,7 +276,8 @@ You may also want to check the pinned messages of the #addons channel and may as
 - [ag_UnitFrames](https://github.com/KrekoG/ag_UnitFrames)
 
 ### Lists of other resources:
-- [decaedent.github.io](https://decaedent.github.io/wow/vadp.html)
+- [decaedent.github.io/wow/](https://decaedent.github.io/wow/vadp.html)
+- [legacy-wow.com/vanilla-addons/](https://legacy-wow.com/vanilla-addons/)
 
 ## Other modifications
 
