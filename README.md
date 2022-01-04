@@ -153,6 +153,7 @@ Type `.server info` in game. The response will let you know the current active p
 - Upper Blackrock Spire
 - Onyxia's Lair
 - Molten Core
+- Dire Maul
 - Azuregos
 - Lord Kazzak
 - Kurinnaxx
