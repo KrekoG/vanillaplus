@@ -8,6 +8,7 @@ Contents of this guide:
   - [Not using the launcher](#not-using-the-launcher)
 - [Technical issues](#technical-issues)
   - [Loading takes forever](#loading-takes-forever)
+  - [My monitor's resolution is in the settings](#my-monitors-resolution-is-in-the-settings)
   - [My screen turned to black](#my-screen-turned-to-black)
   - [My addons don't work properly](#my-addons-dont-work-properly)
   - [My talent tree doesn't work properly or is still the same as original vanilla](#my-talent-tree-doesnt-work-properly-or-is-still-the-same-as-original-vanilla)
@@ -23,6 +24,7 @@ Contents of this guide:
   - [Talent reset](#talent-reset)
   - [The Ironman challenge](#ironman-challenge)
   - [Rares, elites, and mobs in general](#rares-elites-and-mobs-in-general)
+  - [The PVP scene](#the-pvp-scene)
   - [Multiboxing](#multiboxing)
   - [Other oddities](#other-oddities)
   - [Making suggestions](#making-suggestions)
@@ -59,6 +61,14 @@ These are the issues we seen keep popping up in discord time and time again. Che
 
 Due to the custom modifications the loading time can be much longer than usual, however this is normal.
 
+### My monitor's resolution is in the settings
+
+You can't find your monitors resolution in the video settings of the game
+
+#### Solution:
+
+- Same steps as for [My screen turned to black](#my-screen-turned-to-black) below
+
 ### My screen turned to black
 
 You set the game to windowed mode and it turned to black
@@ -76,7 +86,7 @@ SET gxRefresh "60"
 ```
 
 - Set `gxResolution` to what you wish it to be.
-- Set `gxRefresh` to a multiple of `30 `
+- Set `gxRefresh` to a **multiple** of `30`
 
 Credit to: Admarel, Chuck, [Thirinena](https://github.com/hawaiisa), and so many more people...
 
@@ -186,6 +196,17 @@ Also worth mentioning that the challenge cannot be lost due to fall damage or be
 ### Rares, elites, and mobs in general
 
 You may have seen that your character is a bit stronger than the vanilla equivalent would be. To compensate for this, the mobs have also been working out. Taking on a rare mob is often the cause of one's first death, as they rarely skip leg day and are always ready for some ass kicking, so adventurer beware!
+
+### The PVP scene
+
+Released battlegrounds:
+
+- Warsong Gulch
+- Arathi Basin
+
+To incentivise PVP, you get one mark per hour for queueing. Furthermore you may buy flasks with your marks. When there aren't enough players for the battleground to continue, it closes down, rewarding one of the teams randomly with 3 marks, regardless of the state of the match.
+
+You may join the queue from anywhere, by typing `.wsg` or `.ab`. This summons an invisible npc to talk to you. Beware though, once your battleground is finished, you will get teleported back to place where you joined the queue.
 
 ### Multiboxing
 
