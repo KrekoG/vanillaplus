@@ -136,6 +136,8 @@ It's also a lot of work... Just ask the others in the discord if you are curious
 - Elite & Dungeon Quests: x10
 - Rested XP bonus gaining speed: x5
 
+If you find these rates too high for your taste, you may lower them using `.xp <number between 1 and 0>` to reduce it. For example `.xp 0.5` would half your xp gain.
+
 ### Changing account password
 
 To change your password, log in, and type in the chat
