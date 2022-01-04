@@ -30,6 +30,7 @@ Contents of this guide:
   - [Making suggestions](#making-suggestions)
   - [Helping the server](#helping-the-server)
 - [Addons](#addons)
+- [Macros](#macros)
 - [Other modifications](#other-modifications)
 - [About](#about)
 
@@ -279,13 +280,17 @@ You may also want to check the pinned messages of the #addons channel and may as
 - [decaedent.github.io/wow/](https://decaedent.github.io/wow/vadp.html)
 - [legacy-wow.com/vanilla-addons/](https://legacy-wow.com/vanilla-addons/)
 
+## Macros
+
+Vanilla macros are harder to write as many later added functionality simply does not exist.
+[Here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great resource to take as an example what one can still achieve with a bit of scripting knowledge.
+
 ## Other modifications
 
 These are patches that changes the way the game looks. Use them with care, some may not remain always compatible, as they are not maintained by the sever, or the community. To make sure the load order does not break, ensure that the name of the file is later in the alphabetical order than `patch-3.MPQ`. (For example `patch-A.MPQ`)
 
 - [Very Dark Night Mod 1.12.1](https://discord.com/channels/530653671193706496/730518138831241297/893600417064321074) - credit: Wizdom
 - [Leeviathan's WoD Character Models](https://model-changing.net/gc/11-leeviathans-wod-character-models/) - credit: Thirinena
-
 
 ## About
 
