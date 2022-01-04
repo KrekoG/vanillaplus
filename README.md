@@ -205,6 +205,10 @@ There is an increased fall damage on the server.
 
 There is also a phenomena, where suddenly out of nowhere you suffer a massive fall damage, which sometimes kills you. This is a bug and there is not much you can do to avoid it, other than avoiding the places where this happened. Think of it like your character just fall. This is one of the reasons, why you can't loose the Ironman Challenge to fall damage.
 
+#### Free market
+
+All of the action houses are connected. Horde, Alliance, Neutral, all of them.
+
 ### Making suggestions
 
 There are some technical limitations that the developers are unwilling to take on, and for a good reason. If your suggestion requires the WoW.exe to be modified, it is an automatic no-no, for it has the potential to make massive unforeseen issues. This is non-negotiable and no amount of pleading will make this change.
