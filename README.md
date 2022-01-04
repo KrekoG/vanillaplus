@@ -23,6 +23,7 @@ Contents of this guide:
   - [Talent reset](#talent-reset)
   - [The Ironman challenge](#ironman-challenge)
   - [Rares, elites, and mobs in general](#rares-elites-and-mobs-in-general)
+  - [Multiboxing](#multiboxing)
   - [Other oddities](#other-oddities)
   - [Making suggestions](#making-suggestions)
   - [Helping the server](#helping-the-server)
@@ -183,6 +184,10 @@ Also worth mentioning that the challenge cannot be lost due to fall damage or be
 ### Rares, elites, and mobs in general
 
 You may have seen that your character is a bit stronger than the vanilla equivalent would be. To compensate for this, the mobs have also been working out. Taking on a rare mob is often the cause of one's first death, as they rarely skip leg day and are always ready for some ass kicking, so adventurer beware!
+
+### Multiboxing
+
+Having two logged in clients run on the same computer counts as multiboxing, even if you are manually switching between them to control the characters. Multiboxing in general is **NOT** allowed, however logging in with different accounts for trading purposes inside cities is allowed.
 
 ### Other oddities
 
