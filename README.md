@@ -29,21 +29,43 @@ Contents of this guide:
   - [Other oddities](#other-oddities)
   - [Making suggestions](#making-suggestions)
   - [Helping the server](#helping-the-server)
-- [Addons](#addons)
-- [Macros](#macros)
-- [Other modifications](#other-modifications)
+- [Customisation](#customisation)
+  - [Addons](#addons)
+  - [Macros](#macros)
+  - [Other modifications](#other-modifications)
 - [About](#about)
 
 ## How to play on the server
 
+- Register an account on the [website](https://vanillaplus.org/)
+- You may also want to consider joining the [discord server](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect)
+
 ### Using the launcher
 
-*This section is yet to be written.*
+- Download, unpack and start the [launcher](https://vanillaplus.org/uploads/VanillaPlusLauncher.zip)
+
+#### If you already have a clean, 1.12.1 wow client installed on your machine:
+
+- Select the folder for your installation. If there is no pop up asking for this, click the `WoW.exe was not found...` text below the loading bar.
+- Wait for the launcher to download the additionally required files
+  - If you are a Mac user, make sure the extension of the patch file is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
+- Make sure the `Clear WDB on launch` option is ticket below the `Play` button
+- Click `Play` to log in and enjoy the game
+
+#### If you don't have the game installed yet:
+
+- Select the folder for your installation. If there is no pop up asking for this, click the `WoW.exe was not found...` text below the loading bar.
+  - If you are a Windows user, make sure you don't install the game in a system folder such as `Program Files` or you will need to run the `WoW.exe` as an administrator.
+- Click the `Install` button and wait for the launcher to finish downloading the files
+  - If you are a Mac user, make sure the extension of the patch file is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
+- Make sure the `Clear WDB on launch` option is ticket below the `Play` button
+- Click `Play` to log in and enjoy the game
+  - Starting the game will create your `<wow folder>\Interface\AddOns` folder.
 
 ### Not using the launcher
 
-- Register an account on the [website](https://vanillaplus.org/)
 - Install any non-modified 1.12.1 wow client
+  - If you are a Windows user, make sure you don't install the game in a system folder such as `Program Files` or you will need to run the `WoW.exe` as an administrator.
 - Download the [patch](https://vanillaplus.org/uploads/patch-3.mpq) from the website and place it in the `<wow folder>/Data` folder
   - If you are a Mac user, make sure the file extension is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
   - If you are a Windows user, make sure you don't install the game in a system folder such as `Program Files` or you will need to run the `WoW.exe` as an administrator.
@@ -51,8 +73,6 @@ Contents of this guide:
 - Remove any previously downloaded cache by deleting the contents of your `<wow folder>/WDB` folder, if it exists
   - This step must also be repeated if you plan to connect back to another wow server with the same client later
 - Log in and enjoy the game
-  - You may also want to consider joining the [discord server](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect)
-  - Starting the game will create your `<wow folder>\Interface\AddOns` folder in case you didn't have one before
 
 ## Technical issues
 
@@ -261,31 +281,34 @@ The server is free to play but the necessary upkeep is not. Donations are welcom
 
 Bringing positive attention to the server is also a great way to help the project. A good example of this would be raising the attention of like minded individuals, such as creating content on twitch or youtube (see [Hamsterwheel](https://www.youtube.com/channel/UCQkKf5qwYKyJlyhZPbdAVmw)). A bad example would be spamming forums and competitors with links to the server. Committing acts of terror to coerce people to play on the server is also shunned. Please do **NOT** engage in war crimes to make the server more popular.
 
-## Addons
+## Customisation
+
+*Classic is NOT vanilla.* When looking up information about customising your experience always look for information on the `1.12.1` vanilla client. Forgetting about this is one of the most frequently made mistake on discord.
+
+### Addons
 
 There are some community developed addons that are made specificly for the server, but any addon made for `1.12.1` will work. Some have dependencies that you will need to install so always read the readme file.
 You may also want to check the pinned messages of the #addons channel and may ask for help on [Discord](https://discord.com/invite/CfC8PGmg?utm_source=https://github.com/KrekoG/vanillaplus&utm_medium=Connect). If you can't find your addon folder at `<wow folder>\Interface\AddOns`, starting the game successfully will create it for you.
 
-### Server specific addons:
+#### Server specific addons:
 - [AtlasLoot Enhanced for Vanilla+](https://github.com/hawaiisa/Atlas)
 - [BloodlustHelper](https://github.com/KrekoG/BloodlustHelper)
 - [pfUI Vanilla Plus](https://github.com/heroclastus09/pfui-vanillaplus)
 
-### Addons maintained by the community:
+#### Addons maintained by the community:
 - [SkelaCustomNameplates](https://github.com/KrekoG/SkelaCustomNameplates)
 - [SpecialTalentUI](https://github.com/KrekoG/SpecialTalentUI)
 - [ag_UnitFrames](https://github.com/KrekoG/ag_UnitFrames)
 
-### Lists of other resources:
+#### Lists of other resources:
 - [decaedent.github.io/wow/](https://decaedent.github.io/wow/vadp.html)
 - [legacy-wow.com/vanilla-addons/](https://legacy-wow.com/vanilla-addons/)
 
-## Macros
+### Macros
 
-Vanilla macros are harder to write as many later added functionality simply does not exist.
-[Here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great resource to take as an example what one can still achieve with a bit of scripting knowledge.
+Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla. But [here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great resource to take as an example what one can still achieve with a bit of scripting.
 
-## Other modifications
+### Other modifications
 
 These are patches that changes the way the game looks. Use them with care, some may not remain always compatible, as they are not maintained by the sever, or the community. To make sure the load order does not break, ensure that the name of the file is later in the alphabetical order than `patch-3.MPQ`. (For example `patch-A.MPQ`)
 
