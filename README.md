@@ -8,7 +8,7 @@ Contents of this guide:
   - [Not using the launcher](#not-using-the-launcher)
 - [Technical issues](#technical-issues)
   - [Loading takes forever](#loading-takes-forever)
-  - [My monitor's resolution is in the settings](#my-monitors-resolution-is-in-the-settings)
+  - [My monitor's resolution is not in the settings](#my-monitors-resolution-is-not-in-the-settings)
   - [My screen turned to black](#my-screen-turned-to-black)
   - [My addons don't work properly](#my-addons-dont-work-properly)
   - [My talent tree doesn't work properly or is still the same as original vanilla](#my-talent-tree-doesnt-work-properly-or-is-still-the-same-as-original-vanilla)
@@ -81,7 +81,7 @@ These are the issues we seen keep popping up in discord time and time again. Che
 
 Due to the custom modifications the loading time can be much longer than usual, however this is normal.
 
-### My monitor's resolution is in the settings
+### My monitor's resolution is not in the settings
 
 You can't find your monitors resolution in the video settings of the game
 
