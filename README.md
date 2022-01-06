@@ -13,6 +13,7 @@ Contents of this guide:
   - [My addons don't work properly](#my-addons-dont-work-properly)
   - [My talent tree doesn't work properly or is still the same as original vanilla](#my-talent-tree-doesnt-work-properly-or-is-still-the-same-as-original-vanilla)
   - [Getting disconnected from the server as you log in](#getting-disconnected-from-the-server-as-you-log-in)
+  - [All the names are gone](#all-the-names-are-gone)
   - [RNG issues](#rng-issues)
 - [Things to know about when starting on the server](#things-to-know-about-when-starting-on-the-server)
   - [Where can I see the list of the changes?](#where-can-i-see-the-list-of-the-changes)
@@ -139,6 +140,16 @@ Sometimes when logging in, as the game finishes loading, you get a "Disconnected
 - Login in with a character that is located somewhere else
   - If you don't have one, just create a throwaway one, that has a different spawn point if you are still level 1
 - Log in with your original character
+
+### All the names are gone
+
+The names on the UI are not displayed properly
+
+#### Solution:
+
+- Go to Video Options
+- Change the scale of the UI
+- Click Okay
 
 ### RNG issues
 
