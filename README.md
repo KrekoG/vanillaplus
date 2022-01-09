@@ -313,6 +313,7 @@ You may also want to check the pinned messages of the #addons channel and may as
 #### Lists of other resources:
 - [decaedent.github.io/wow/](https://decaedent.github.io/wow/vadp.html)
 - [legacy-wow.com/vanilla-addons/](https://legacy-wow.com/vanilla-addons/)
+- [Twinstar's github list](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) - credit: Thirinena
 
 ### Macros
 
