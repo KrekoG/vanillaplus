@@ -242,6 +242,7 @@ You may join the queue from anywhere, by typing `.wsg` or `.ab`. This summons an
 #### When there aren't enough players
 
 When there aren't enough players partaking in the battleground, the battleground starts shutting down. If during this period enough people join, the match carries on, if not however, the match finishes and **randomly** 3 tokens are awarded to one of the teams and none to the other. This mechanic intentionally ignores the current scores and is **NOT** a bug.
+
 ### Multiboxing
 
 Having two logged in clients run on the same computer counts as multiboxing, even if you are manually switching between them to control the characters. Multiboxing in general is **NOT** allowed, however logging in with different accounts for trading purposes inside cities is allowed.
