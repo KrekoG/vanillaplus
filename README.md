@@ -310,9 +310,10 @@ You may also want to check the pinned messages of the #addons channel and may as
 - [pfUI Vanilla Plus](https://github.com/heroclastus09/pfui-vanillaplus)
 
 #### Addons maintained by the community:
+- [ag_UnitFrames](https://github.com/KrekoG/ag_UnitFrames)
 - [SkelaCustomNameplates](https://github.com/KrekoG/SkelaCustomNameplates)
 - [SpecialTalentUI](https://github.com/KrekoG/SpecialTalentUI)
-- [ag_UnitFrames](https://github.com/KrekoG/ag_UnitFrames)
+- [WIIIUI](https://github.com/Fiurs-Hearth/WIIIUI)
 
 #### Lists of other resources:
 - [decaedent.github.io/wow/](https://decaedent.github.io/wow/vadp.html)
