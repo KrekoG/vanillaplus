@@ -323,7 +323,9 @@ You may also want to check the pinned messages of the #addons channel and may as
 
 ### Macros
 
-Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla. But [here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great resource to take as an example what one can still achieve with a bit of scripting.
+Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla.
+But [here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great resource to take as an example what one can still achieve with a bit of scripting.
+[Here](https://forum.elysium-project.org/topic/23521-vanilla-startattack-macro/) is another one with a spammable start attack button that you can combo with other abilities.
 
 ### Other modifications
 
