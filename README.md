@@ -166,9 +166,13 @@ To see the common chat, type `/join world`
 
 ### Where can I see the list of the changes?
 
-There are no comprehensive list of changes, partially due to the spirit of the server. Having such a list would remove the sense of discovery and experimentation that was not seen in ages in the vanilla community.
+There is no comprehensive list of all the changes, partially due to the spirit of the server. Having such a list would remove the sense of discovery and experimentation that was not seen in ages in the vanilla community.
 
 It's also a lot of work... Just ask the others in the discord if you are curious of something, or try it out yourself.
+
+#### Racials
+
+All that didn't stop Rafale from making [this](https://docs.google.com/spreadsheets/d/1saPBmoyzwzV1NItwBV73F51GL8DxmDSL9a1YAbetr3Q/) list of racial changes though.
 
 ### XP rates
 
