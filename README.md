@@ -12,6 +12,7 @@ Contents of this guide:
   - [My screen turned to black](#my-screen-turned-to-black)
   - [My addons don't work properly](#my-addons-dont-work-properly)
   - [My talent tree doesn't work properly or is still the same as original vanilla](#my-talent-tree-doesnt-work-properly-or-is-still-the-same-as-original-vanilla)
+  - [My mouse is too sensitive](#my-mouse-is-too-sensitive)
   - [Getting disconnected from the server as you log in](#getting-disconnected-from-the-server-as-you-log-in)
   - [All the names are gone](#all-the-names-are-gone)
   - [RNG issues](#rng-issues)
@@ -130,6 +131,14 @@ The game does not allow you to put 5 points on a talent that should allow 5 poin
   - If you are a Mac user, make sure the file extension is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
 - Make sure you have no other custom patches that overwrites the content of `patch-3.MPQ`. The load order is alphabetical.
 - Delete the game's cache by deleting the content of `<wow folder>/WDB` folder.
+
+### My mouse is too sensitive
+
+When your mouse is unreasonably sensitive, unexpectedly.
+
+### Solution:
+
+- Right click your WoW.exe, go to properties and select "disable dpi".
 
 ### Getting disconnected from the server as you log in
 
