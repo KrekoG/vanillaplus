@@ -369,7 +369,17 @@ You may also want to check the pinned messages of the #addons channel and may as
 
 Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla.
 But [here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great resource to take as an example what one can still achieve with a bit of scripting.
-[Here](https://forum.elysium-project.org/topic/23521-vanilla-startattack-macro/) is another one with a spammable start attack button that you can combo with other abilities.
+
+#### Auto attack macros
+
+[Here](https://forum.elysium-project.org/topic/23521-vanilla-startattack-macro/) is another forum entry with a spammable start attack button that you can combo with other abilities.
+
+#### Mouseover macros
+
+credit - Thirinena
+```
+You'll need an addon to enable it https://github.com/satan666/LazySpell. Classic mouseover and bonus scanner are needed for it AFAIK, so it's the only one you'll have to extract from the lazyspell-master folder if you're not interested in the others. Use the slashcommand /cmcast [Spell name here](no brackets) or the CM:Cast("[Spell name here](without brackets)" function
+```
 
 ### Other modifications
 
