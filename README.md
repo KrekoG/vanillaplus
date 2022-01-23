@@ -221,14 +221,16 @@ Type `.server info` in game. The response will let you know the current active p
 
 ### Currently available raid content
 
-- Lower Blackrock Spire
-- Upper Blackrock Spire
-- Onyxia's Lair
-- Molten Core
-- Dire Maul
-- Azuregos
-- Lord Kazzak
-- Kurinnaxx
+- Lower Blackrock Spire (15 players)
+- Upper Blackrock Spire (15 players)
+- Onyxia's Lair (40 players)
+- Molten Core (40 players)
+- Dire Maul (10 players)
+- Azuregos (world boss)
+- Lord Kazzak (world boss)
+- Kurinnaxx (world boss)
+
+The debuff limit is currently 40.
 
 ### Talent calculator
 
@@ -266,6 +268,8 @@ Released battlegrounds:
 To incentivise PVP, you get one mark per hour for queueing. Furthermore you may buy flasks with your marks. When there aren't enough players for the battleground to continue, it closes down, rewarding one of the teams randomly with 3 marks, regardless of the state of the match.
 
 You may join the queue from anywhere, by typing `.wsg` or `.ab`. This summons an invisible npc to talk to you. Beware though, once your battleground is finished, you will get teleported back to place where you joined the queue.
+
+If the losing team is able to drag the match out for more than 10 minutes, they are also awarded a token for the loss.
 
 #### When there aren't enough players
 
