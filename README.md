@@ -355,6 +355,7 @@ You may also want to check the pinned messages of the #addons channel and may as
 
 #### Addons maintained by the community:
 - [ag_UnitFrames](https://github.com/KrekoG/ag_UnitFrames)
+- [BetterCharacterStats](https://github.com/Borcsa134/BetterCharacterStats)
 - [SkelaCustomNameplates](https://github.com/KrekoG/SkelaCustomNameplates)
 - [SpecialTalentUI](https://github.com/KrekoG/SpecialTalentUI)
 - [WIIIUI](https://github.com/Fiurs-Hearth/WIIIUI)
