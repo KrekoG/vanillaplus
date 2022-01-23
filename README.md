@@ -186,7 +186,7 @@ You seem to get dodged after missing, after getting parried just to be dodged ag
 
 ## Things to know about when starting on the server
 
-To see the common chat, type `/join world`
+To see the common chat, type `/join world`. Prepare for at least moderate levels of shitposting, `/ignore <player name>` is your friend. (You may shift click the undesired player's name instead of typing it out)
 
 ### Where can I see the list of the changes?
 
