@@ -31,6 +31,7 @@ Contents of this guide:
   - [Other oddities](#other-oddities)
   - [Making suggestions](#making-suggestions)
   - [Helping the server](#helping-the-server)
+  - [Reporting bugs](#reporting-bugs)
 - [Customisation](#customisation)
   - [Addons](#addons)
   - [Macros](#macros)
@@ -307,6 +308,12 @@ Don't. Just don't.
 The server is free to play but the necessary upkeep is not. Donations are welcome and appreciated, but they are just that, donations. Find more information about this on the [website](https://vanillaplus.org/), under the `Support Project` and `Rewards` menu points.
 
 Bringing positive attention to the server is also a great way to help the project. A good example of this would be raising the attention of like minded individuals, such as creating content on twitch or youtube (see [Hamsterwheel](https://www.youtube.com/channel/UCQkKf5qwYKyJlyhZPbdAVmw)). A bad example would be spamming forums and competitors with links to the server. Committing acts of terror to coerce people to play on the server is also shunned. Please do **NOT** engage in war crimes to make the server more popular.
+
+### Reporting bugs
+
+The official bug reporting tool can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScVN-8EP_yRSnDigBbUPLsw7F0O8Zkom8P3dC7a2tRpLyOebA/viewform). Before reporting please make sure that it is indeed a bug. Your best bet is probably to ask about in the discord first and actually wait for some responses before making the report to avoid wasting the developers time.
+
+Provide as much detail as possible so they will have an easier time recreating the issue. Reports like "I died" is not helping. However a detailed report with screenshots, map locations, character information, etc will allow for quick recognition of an issue.
 
 ## Customisation
 
