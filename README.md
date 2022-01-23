@@ -378,7 +378,12 @@ But [here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great r
 
 credit - Thirinena
 ```
-You'll need an addon to enable it https://github.com/satan666/LazySpell. Classic mouseover and bonus scanner are needed for it AFAIK, so it's the only one you'll have to extract from the lazyspell-master folder if you're not interested in the others. Use the slashcommand /cmcast [Spell name here](no brackets) or the CM:Cast("[Spell name here](without brackets)" function
+You'll need an addon to enable it https://github.com/satan666/LazySpell.
+Classic mouseover and bonus scanner are needed for it AFAIK,
+so it's the only one you'll have to extract from the lazyspell-master
+folder if you're not interested in the others.
+Use the slashcommand /cmcast [Spell name here](no brackets)
+or the CM:Cast("[Spell name here](without brackets)" function
 ```
 
 ### Other modifications
