@@ -1,6 +1,8 @@
-# vanilla+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1638449/150675419-04fdabdc-e111-4a60-8740-23a42eead1ae.png">
+</p>
 
-This is a brief guide to help out new players starting on the server.
+This is a community made brief guide to help out new players starting on the server.
 
 Contents of this guide:
 - [How to play on the server](#how-to-play-on-the-server)
@@ -45,6 +47,8 @@ Contents of this guide:
 
 ### Using the launcher
 
+![image](https://user-images.githubusercontent.com/1638449/150675482-2ff212a6-7b88-4557-96ff-f487169e31a8.png)
+
 - Download, unpack and start the [launcher](https://vanillaplus.org/uploads/VanillaPlusLauncher.zip)
 
 #### If you already have a clean, 1.12.1 wow client installed on your machine:
@@ -67,6 +71,8 @@ Contents of this guide:
 
 ### Not using the launcher
 
+![image](https://user-images.githubusercontent.com/1638449/150675509-3c7f7c74-5472-422a-8c96-54786dac1f6a.png)
+
 - Install any non-modified 1.12.1 wow client
   - If you are a Windows user, make sure you don't install the game in a system folder such as `Program Files` or you will need to run the `WoW.exe` as an administrator.
 - Download the [patch](https://vanillaplus.org/uploads/patch-3.mpq) from the website and place it in the `<wow folder>/Data` folder
@@ -75,6 +81,10 @@ Contents of this guide:
 - Remove any previously downloaded cache by deleting the contents of your `<wow folder>/WDB` folder, if it exists
   - This step must also be repeated if you plan to connect back to another wow server with the same client later
 - Log in and enjoy the game
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1638449/150675692-71d1d8ea-6eea-4f6b-aa4e-21a8f0391543.png">
+</p>
 
 ## Technical issues
 
@@ -169,6 +179,10 @@ You seem to get dodged after missing, after getting parried just to be dodged ag
 
 - Run your own [experiment](https://github.com/KrekoG/HitAndMissCounter).
   - We have proven again and again that the complaints are not valid. Feel free to ignore said complaints until actual evidence is provided.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1638449/150676301-7141d9b4-451a-4bac-ba3f-73fe727fc4fd.png">
+</p>
 
 ## Things to know about when starting on the server
 
@@ -315,6 +329,10 @@ The official bug reporting tool can be found [here](https://docs.google.com/form
 
 Provide as much detail as possible so they will have an easier time recreating the issue. Reports like "I died" is not helping. However a detailed report with screenshots, map locations, character information, etc will allow for quick recognition of an issue.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1638449/150676674-635d9298-4ea9-4d04-8d58-f7adf6c76a41.png">
+</p>
+
 ## Customisation
 
 *Classic is NOT vanilla.* When looking up information about customising your experience always look for information on the `1.12.1` vanilla client. Forgetting about this is one of the most frequently made mistake on discord.
@@ -353,6 +371,10 @@ These are patches that changes the way the game looks. Use them with care, some 
 
 - [Very Dark Night Mod 1.12.1](https://discord.com/channels/530653671193706496/730518138831241297/893600417064321074) - credit: Wizdom
 - [Leeviathan's WoD Character Models](https://model-changing.net/gc/11-leeviathans-wod-character-models/) - credit: Thirinena
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1638449/150676642-be78688a-298d-456b-9967-1a19b0ac2b21.png">
+</p>
 
 ## About
 
