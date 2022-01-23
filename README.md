@@ -132,6 +132,8 @@ Read all the points, if none of them applies, ask for help in the support or add
 - The version of the addon has to be compatible with the game. *Classic* is not *Vanilla*. If the addons are for `Classic`, they will NOT work. The client's version is `1.12.1`. If the addon was made for previous versions, you will need to tick `Load out of date AddOns` on the character selection screens bottom left `AddOns` menu.
 - Some addons need to work with large amount of data to work properly. You may allow for this by changing the `Script Memory (MB)` option to `0` for unlimited memory access on the character selection screens bottom left `AddOns` menu.
 
+![image](https://user-images.githubusercontent.com/1638449/150698918-c7c95bec-7a31-4790-b8eb-2b3222457adc.png)
+
 ### My talent tree doesn't work properly or is still the same as original vanilla
 
 The game does not allow you to put 5 points on a talent that should allow 5 points? The talent trees you see are not like on the [talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator)?
@@ -342,6 +344,8 @@ Provide as much detail as possible so they will have an easier time recreating t
 ## Customisation
 
 *Classic is NOT vanilla.* When looking up information about customising your experience always look for information on the `1.12.1` vanilla client. Forgetting about this is one of the most frequently made mistake on discord.
+
+![image](https://user-images.githubusercontent.com/1638449/150698993-0d243de1-a40d-42df-b379-79aa9096e0be.png)
 
 ### Addons
 
