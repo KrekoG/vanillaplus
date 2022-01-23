@@ -109,7 +109,7 @@ You set the game to windowed mode and it turned to black
 #### Solution:
 
 - Make sure your client is not running
-- Add the following lines to the end of your `<wow folder>/WTF/Config.wtf` file:
+- Add the following lines to the end of your `<wow folder>/WTF/Config.wtf` file (you can open it with notepad for example):
 
 ```
 SET gxWindow "1"
