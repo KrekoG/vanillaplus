@@ -375,6 +375,8 @@ You may also want to check the pinned messages of the #addons channel and may as
 Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla.
 But [here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great resource to take as an example what one can still achieve with a bit of scripting.
 
+Another great resouce can be found [here](https://github.com/DBFBlackbull/wow-macros/blob/master/Vanilla%201.12/Warrior-macros.md), credit goes to [DBFBlackbull](https://github.com/DBFBlackbull/) for the nice explanations. While his focuses on warrior macros, reading through his page helps understand how macros function in vanilla.
+
 #### ROID macros
 
 credit - Jaredc
