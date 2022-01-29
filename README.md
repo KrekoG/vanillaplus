@@ -266,12 +266,33 @@ Released battlegrounds:
 
 - Warsong Gulch
 - Arathi Basin
+- Azshara Crater
 
 To incentivise PVP, you get one mark per hour for queueing. Furthermore you may buy flasks with your marks. When there aren't enough players for the battleground to continue, it closes down, rewarding one of the teams randomly with 3 marks, regardless of the state of the match.
 
-You may join the queue from anywhere, by typing `.wsg` or `.ab`. This summons an invisible npc to talk to you. Beware though, once your battleground is finished, you will get teleported back to place where you joined the queue.
+You may join the queue from anywhere, by typing `.wsg`, `.ab` or `.ac`. This summons an invisible npc to talk to you. Beware though, once your battleground is finished, you will get teleported back to place where you joined the queue.
 
 If the losing team is able to drag the match out for more than 10 minutes, they are also awarded a token for the loss.
+
+#### Azshara Crater
+
+Azshara Crater is a vanilla+ made MOBA-styled custom battleground, where the two factions, the Firebird corps (Alliance) and the Operation Rattlesnake (Horde) fight their battles, currently running in **testig mode**. This means there are no quests, side objectives and reputation vendors activated yet, but reputation with new factions and Honor rewards are available.
+
+The pattern of AC seems like Alterac Valley: each team has five towers, General and Warmasters.
+Each team starts with 500 Initiative points, the team who gets 1000 Initiative points wins, the team who lost all Initiative points loses the game.
+
+There're few ways to raise your Initiative points and to reduce enemy Initiative points:
+By controlling Crystal Depths (Tug-of-War middle point), you reduce your foe's Initiative.
+Destroying the enemy tower will reduce his Initiative and despawn one Warmaster per tower.
+To gain an Initiative, you should control Temple of Quel'Arkhana points or slay their ancient guardian.
+
+To join a queue, use the `.ac` chat command.
+
+You may use the #azshara-crater-feedback channel to report bugs/suggestions related to the new battleground on the discord server.
+
+#### Getting payed for your merchanary work
+
+You may turn in your Marks of Honors for money rewards at the entrances of the battlegrounds. For example looks for Sentinel Farsong on Alliance side, and Captain Shatterskull on Horde side with your Warsong gulch marks. The rewarded amount scales with your level.
 
 #### When there aren't enough players
 
