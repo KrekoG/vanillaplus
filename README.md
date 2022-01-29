@@ -319,6 +319,9 @@ Some zeppelins and boats change their destinations. Talk to the NPC before board
 
 ### Making suggestions
 
+You can make suggestions in the #suggestions channel of the discord server. To make one you must start your message with `!suggest`, for example `!suggest Add Arcane Blast or make Arcane Missiles benefit from 20% increased cast time talent.`. This will show up as a suggestion with others able to vote on it showing how populare your idea is.
+![image](https://user-images.githubusercontent.com/1638449/151654432-598d912f-6edf-412d-85c2-e5be8c627364.png)
+
 There are some technical limitations that the developers are unwilling to take on, and for a good reason. If your suggestion requires the WoW.exe to be modified, it is an automatic no-no, for it has the potential to make massive unforeseen issues. This is non-negotiable and no amount of pleading will make this change.
 
 #### Suggestions to reset the server
