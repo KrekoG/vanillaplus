@@ -404,6 +404,8 @@ If the `.toc` file is not in there, the game will not recognise the addon, and y
 
 Also, if the folder's name is `<addon>-master`, while the `.toc` file is `<addon>.toc`, then remove the `-master` from the folders name.
 
+![image](https://user-images.githubusercontent.com/1638449/151720066-1b6625d6-6841-497c-a730-4f2be180e4a5.png)
+
 ### Macros
 
 Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla.
