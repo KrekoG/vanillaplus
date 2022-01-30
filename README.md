@@ -366,6 +366,16 @@ You may also want to check the pinned messages of the #addons channel and may as
 - [dkpminus vanilla wow addons](https://www.dkpminus.com/wow/addons/expansion/vanilla-wow/) - credit: Chuck
 - [Twinstar's github list](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) - credit: Thirinena
 
+#### How to check that an addon is installed correctly
+
+To check that you have installed it properly, make sure that the structure in place is the following:
+
+`<Wow folder>\Interface\AddOns\<addon_name>\<addon_name>.toc`
+
+If the `.toc` file is not in there, the game will not recognise the addon, and you might need to move the folders about. However if the `.toc` file isn't there, don't just move the `.toc` file, but move the whole folder, as it was originally extracted from the archive file (`.zip`/`.rar`/`.7z`).
+
+Also, if the folder's name is `<addon>-master`, while the `.toc` file is `<addon>.toc`, then remove the `-master` from the folders name.
+
 ### Macros
 
 Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla.
