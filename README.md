@@ -132,6 +132,8 @@ Read all the points, if none of them applies, ask for help in the support or add
 - The version of the addon has to be compatible with the game. *Classic* is not *Vanilla*. If the addons are for `Classic`, they will NOT work. The client's version is `1.12.1`. If the addon was made for previous versions, you will need to tick `Load out of date AddOns` on the character selection screens bottom left `AddOns` menu.
 - Some addons need to work with large amount of data to work properly. You may allow for this by changing the `Script Memory (MB)` option to `0` for unlimited memory access on the character selection screens bottom left `AddOns` menu.
 
+![image](https://user-images.githubusercontent.com/1638449/150698918-c7c95bec-7a31-4790-b8eb-2b3222457adc.png)
+
 ### My talent tree doesn't work properly or is still the same as original vanilla
 
 The game does not allow you to put 5 points on a talent that should allow 5 points? The talent trees you see are not like on the [talent calculator](https://hawaiisa.github.io/vanillaplus-talent-calculator)?
@@ -264,12 +266,33 @@ Released battlegrounds:
 
 - Warsong Gulch
 - Arathi Basin
+- Azshara Crater
 
 To incentivise PVP, you get one mark per hour for queueing. Furthermore you may buy flasks with your marks. When there aren't enough players for the battleground to continue, it closes down, rewarding one of the teams randomly with 3 marks, regardless of the state of the match.
 
-You may join the queue from anywhere, by typing `.wsg` or `.ab`. This summons an invisible npc to talk to you. Beware though, once your battleground is finished, you will get teleported back to place where you joined the queue.
+You may join the queue from anywhere, by typing `.wsg`, `.ab` or `.ac`. This summons an invisible npc to talk to you. Beware though, once your battleground is finished, you will get teleported back to place where you joined the queue.
 
 If the losing team is able to drag the match out for more than 10 minutes, they are also awarded a token for the loss.
+
+#### Azshara Crater
+
+Azshara Crater is a vanilla+ made MOBA-styled custom battleground, where the two factions, the Firebird corps (Alliance) and the Operation Rattlesnake (Horde) fight their battles, currently running in **testig mode**. This means there are no quests, side objectives and reputation vendors activated yet, but reputation with new factions and Honor rewards are available.
+
+The pattern of AC seems like Alterac Valley: each team has five towers, General and Warmasters.
+Each team starts with 500 Initiative points, the team who gets 1000 Initiative points wins, the team who lost all Initiative points loses the game.
+
+There're few ways to raise your Initiative points and to reduce enemy Initiative points:
+By controlling Crystal Depths (Tug-of-War middle point), you reduce your foe's Initiative.
+Destroying the enemy tower will reduce his Initiative and despawn one Warmaster per tower.
+To gain an Initiative, you should control Temple of Quel'Arkhana points or slay their ancient guardian.
+
+To join a queue, use the `.ac` chat command.
+
+You may use the #azshara-crater-feedback channel to report bugs/suggestions related to the new battleground on the discord server.
+
+#### Getting payed for your merchanary work
+
+You may turn in your Marks of Honors for money rewards at the entrances of the battlegrounds. For example looks for Sentinel Farsong on Alliance side, and Captain Shatterskull on Horde side with your Warsong gulch marks. The rewarded amount scales with your level.
 
 #### When there aren't enough players
 
@@ -317,6 +340,9 @@ Some zeppelins and boats change their destinations. Talk to the NPC before board
 
 ### Making suggestions
 
+You can make suggestions in the #suggestions channel of the discord server. To make one you must start your message with `!suggest`, for example `!suggest Add Arcane Blast or make Arcane Missiles benefit from 20% increased cast time talent.`. This will show up as a suggestion with others able to vote on it showing how populare your idea is.
+![image](https://user-images.githubusercontent.com/1638449/151654432-598d912f-6edf-412d-85c2-e5be8c627364.png)
+
 There are some technical limitations that the developers are unwilling to take on, and for a good reason. If your suggestion requires the WoW.exe to be modified, it is an automatic no-no, for it has the potential to make massive unforeseen issues. This is non-negotiable and no amount of pleading will make this change.
 
 #### Suggestions to reset the server
@@ -342,6 +368,8 @@ Provide as much detail as possible so they will have an easier time recreating t
 ## Customisation
 
 *Classic is NOT vanilla.* When looking up information about customising your experience always look for information on the `1.12.1` vanilla client. Forgetting about this is one of the most frequently made mistake on discord.
+
+![image](https://user-images.githubusercontent.com/1638449/150698993-0d243de1-a40d-42df-b379-79aa9096e0be.png)
 
 ### Addons
 
@@ -380,6 +408,8 @@ Also, if the folder's name is `<addon>-master`, while the `.toc` file is `<addon
 
 Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla.
 But [here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great resource to take as an example what one can still achieve with a bit of scripting.
+
+Another great resouce can be found [here](https://github.com/DBFBlackbull/wow-macros/blob/master/Vanilla%201.12/Warrior-macros.md), credit goes to [DBFBlackbull](https://github.com/DBFBlackbull/) for the nice explanations. While his focuses on warrior macros, reading through his page helps understand how macros function in vanilla.
 
 #### ROID macros
 
