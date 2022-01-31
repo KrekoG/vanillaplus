@@ -276,7 +276,7 @@ If the losing team is able to drag the match out for more than 10 minutes, they 
 
 #### Azshara Crater
 
-Azshara Crater is a vanilla+ made MOBA-styled custom battleground, where the two factions, the Firebird corps (Alliance) and the Operation Rattlesnake (Horde) fight their battles, currently running in **testig mode**. This means there are no quests, side objectives and reputation vendors activated yet, but reputation with new factions and Honor rewards are available.
+Azshara Crater is a vanilla+ made MOBA-styled custom battleground, where the two factions, the Firebird corps (Alliance) and the Operation Rattlesnake (Horde) fight their battles, currently running in **testing mode**. This means there are no quests, side objectives and reputation vendors activated yet, but reputation with new factions and Honor rewards are available.
 
 The pattern of AC seems like Alterac Valley: each team has five towers, General and Warmasters.
 Each team starts with 500 Initiative points, the team who gets 1000 Initiative points wins, the team who lost all Initiative points loses the game.
