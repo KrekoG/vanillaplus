@@ -358,7 +358,7 @@ The server is free to play but the necessary upkeep is not. Donations are welcom
 ![image](https://user-images.githubusercontent.com/1638449/152032313-47ffd376-1a5c-4fee-a9e6-1cd514a3cf2f.png)
 
 <details>
-  <summary>Here are some example of said possible supporter rewards</summary>
+  <summary>Here are some examples of said possible supporter rewards</summary>
   
   ##### Ogre's Bum Bag (36 slot)
 
