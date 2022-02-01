@@ -351,7 +351,25 @@ Don't. Just don't.
 
 ### Helping the server
 
-The server is free to play but the necessary upkeep is not. Donations are welcome and appreciated, but they are just that, donations. Find more information about this on the [website](https://vanillaplus.org/), under the `Support Project` and `Rewards` menu points.
+#### Donations
+
+The server is free to play but the necessary upkeep is not. Donations are welcome and appreciated, but they are just that, donations. Find more information about this on the [website](https://vanillaplus.org/), under the `Support Project` and `Rewards` menu points. You may talk to **Landro Longshot** for possible supporter rewards in front of your faction's auction house.
+
+![image](https://user-images.githubusercontent.com/1638449/152030503-4e14332a-7eea-4b9a-9ee9-213a3efccf2f.png)
+
+<details>
+  <summary>Here are some example of said possible supporter rewards</summary>
+  
+  ##### Ogre's Bum Bag (36 slot)
+
+  ![image](https://user-images.githubusercontent.com/1638449/152030177-72f65337-9ae4-407a-876b-0c292b0dc2c2.png)
+
+  ##### Summonable Caravan Mule (Bank)
+
+  ![image](https://user-images.githubusercontent.com/1638449/152029125-882e1fbc-bc1c-4e98-9ca0-5b1f53b76ac9.png)
+</details>
+
+#### Advertising
 
 Bringing positive attention to the server is also a great way to help the project. A good example of this would be raising the attention of like minded individuals, such as creating content on twitch or youtube (see [Hamsterwheel](https://www.youtube.com/channel/UCQkKf5qwYKyJlyhZPbdAVmw)). A bad example would be spamming forums and competitors with links to the server. Committing acts of terror to coerce people to play on the server is also shunned. Please do **NOT** engage in war crimes to make the server more popular.
 
