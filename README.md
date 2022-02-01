@@ -355,7 +355,7 @@ Don't. Just don't.
 
 The server is free to play but the necessary upkeep is not. Donations are welcome and appreciated, but they are just that, donations. Find more information about this on the [website](https://vanillaplus.org/), under the `Support Project` and `Rewards` menu points. You may talk to **Landro Longshot** for possible supporter rewards in front of your faction's auction house.
 
-![image](https://user-images.githubusercontent.com/1638449/152030503-4e14332a-7eea-4b9a-9ee9-213a3efccf2f.png)
+![image](https://user-images.githubusercontent.com/1638449/152032313-47ffd376-1a5c-4fee-a9e6-1cd514a3cf2f.png)
 
 <details>
   <summary>Here are some example of said possible supporter rewards</summary>
