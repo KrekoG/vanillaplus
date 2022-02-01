@@ -450,6 +450,8 @@ These are patches that changes the way the game looks. Use them with care, some 
 
 ## About
 
+Should you want to help share information from this guide, you may click on the headers and the url in your browser will change. If you copy and paste the new url, the opener of the link will be directed to the selected part right away.
+
 This document is currently maintained by [KrekoG](https://github.com/KrekoG/).
 
 If you find any inaccuracies, grammatical errors or would like to suggest (or even write) additions, please contact me on github or discord.
