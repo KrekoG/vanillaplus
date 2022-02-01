@@ -276,7 +276,7 @@ If the losing team is able to drag the match out for more than 10 minutes, they 
 
 #### Azshara Crater
 
-Azshara Crater is a vanilla+ made MOBA-styled custom battleground, where the two factions, the Firebird corps (Alliance) and the Operation Rattlesnake (Horde) fight their battles, currently running in **testig mode**. This means there are no quests, side objectives and reputation vendors activated yet, but reputation with new factions and Honor rewards are available.
+Azshara Crater is a vanilla+ made MOBA-styled custom battleground, where the two factions, the Firebird corps (Alliance) and the Operation Rattlesnake (Horde) fight their battles, currently running in **testing mode**. This means there are no quests, side objectives and reputation vendors activated yet, but reputation with new factions and Honor rewards are available.
 
 The pattern of AC seems like Alterac Valley: each team has five towers, General and Warmasters.
 Each team starts with 500 Initiative points, the team who gets 1000 Initiative points wins, the team who lost all Initiative points loses the game.
@@ -408,6 +408,8 @@ If the `.toc` file is not in there, the game will not recognise the addon, and y
 
 Also, if the folder's name is `<addon>-master`, while the `.toc` file is `<addon>.toc`, then remove the `-master` from the folders name.
 
+![image](https://user-images.githubusercontent.com/1638449/151720066-1b6625d6-6841-497c-a730-4f2be180e4a5.png)
+
 ### Macros
 
 Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla.
@@ -451,6 +453,8 @@ These are patches that changes the way the game looks. Use them with care, some 
 </p>
 
 ## About
+
+Should you want to help share information from this guide, you may click on the headers and the url in your browser will change. If you copy and paste the new url, the opener of the link will be directed to the selected part right away.
 
 This document is currently maintained by [KrekoG](https://github.com/KrekoG/).
 
