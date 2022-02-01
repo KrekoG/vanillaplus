@@ -338,6 +338,10 @@ Your first riding lessons at level 40 are free of charge
 
 Some zeppelins and boats change their destinations. Talk to the NPC before boarding to make sure you don't end up somewhere you don't want to!
 
+#### Half-empty barrels and crates
+
+The drink and food containing barrels and crates have level requirements. They may look empty at first, but if you are high enough level, you'll find what you are looking for.
+
 ### Making suggestions
 
 You can make suggestions in the #suggestions channel of the discord server. To make one you must start your message with `!suggest`, for example `!suggest Add Arcane Blast or make Arcane Missiles benefit from 20% increased cast time talent.`. This will show up as a suggestion with others able to vote on it showing how populare your idea is.
