@@ -8,6 +8,7 @@ Contents of this guide:
 - [How to play on the server](#how-to-play-on-the-server)
   - [Using the launcher](#using-the-launcher)
   - [Not using the launcher](#not-using-the-launcher)
+  - [Updating the game](#updating-the-game)
 - [Technical issues](#technical-issues)
   - [Loading takes forever](#loading-takes-forever)
   - [My monitor's resolution is not in the settings](#my-monitors-resolution-is-not-in-the-settings)
@@ -80,6 +81,20 @@ Contents of this guide:
 - Change the content of your `<wow folder>/realmlist.wtf` to be ```set realmlist logon.vanillaplus.org```
 - Remove any previously downloaded cache by deleting the contents of your `<wow folder>/WDB` folder, if it exists
   - This step must also be repeated if you plan to connect back to another wow server with the same client later
+- Log in and enjoy the game
+
+### Updating the game
+
+#### Using the launcher
+
+The launcher will check for updates and do the necessary steps automatically.
+
+#### Not using the launcher
+
+If you installed the game manually the game will need to be updated with **every** new patch. To do this:
+- Download the [patch](https://vanillaplus.org/uploads/patch-3.mpq) from the website and place it in the `<wow folder>/Data` folder
+  - If you are a Mac user, make sure the file extension is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
+- Remove any previously downloaded cache by deleting the contents of your `<wow folder>/WDB` folder
 - Log in and enjoy the game
 
 <p align="center">
