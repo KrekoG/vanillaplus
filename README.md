@@ -240,7 +240,7 @@ The talent calculator linked in the launcher is currently NOT accurate. Use the 
 
 ### Talent reset
 
-The talent reset cost has been capped to 5G maximum.
+The talent reset cost has been capped to 5G maximum and it resets every 3 days.
 
 ### Ironman challenge
 
