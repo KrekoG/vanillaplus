@@ -214,327 +214,332 @@ It's also a lot of work... Just ask the others in the discord if you are curious
 
 ### Racials
 
-<table>
-  <tr>
-    <td rowspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152647692-d4065a19-8657-48cc-b2c3-b1b82bbf0224.png"><br/>
-      <b>Human</b>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152647658-781b7f5b-88df-4b53-84e9-393233046afa.png"><br/>
-      <b>Sword Specialization</b><br/>
-      Skill with Swords and Two-Handed Swords increased by 5.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152648050-edacd31b-f69b-4a05-a0b0-9c53c25241a5.png"><br/>
-      <b>Mace Specialization</b><br/>
-      Skill with Maces and Two-Handed Maces increased by 5
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152648072-f9a93649-3d02-497c-9cc6-f88a5a228d22.png"><br/>
-      <b>Diplomacy</b><br/>
-      Reputation gains increased by 10%
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152648109-789f74e6-1828-4a2c-ba11-6c6f5687b2b9.png"><br/>
-      <b>Perception</b><br/>
-      Dramatically increases stealth detection.<br/>
-      <i>Instant cast, 2 min cooldown</i>.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152648255-b29e9ba8-078b-4f4a-a2fa-39aace587873.png"><br/>
-      <b>Perseverance</b><br/>
-      Removes all Fear, Silence and Movement Impairing effects.<br/>
-      <i>Instant cast, 3 min cooldown</i>.
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152647703-43ad4ce9-a12f-45fe-a3f0-2bd92101fff1.png"><br/>
-      <b>Dwarf</b>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152651474-dc3c0aa2-d907-41df-a03b-6e497b0a358a.png"><br/>
-      <b>Axe Specialization</b><br/>
-      Skill with Axes and Two-handed Axes increased by 5.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152651530-4b5e4082-916e-4e4d-88c9-c7fef997c381.png"><br/>
-      <b>Thunderer</b><br/>
-      Skill with Maces, Two-handed Maces and Guns increased by 5.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152651545-7b4a2cf1-8e82-4544-a4c1-a051f88e4386.png"><br/>
-      <b>Frost Resistance</b><br/>
-      Frost resistance increased by 20.
-    </td>
-    <td>
-      <img src=""><br/>
-      <b>Metallurgy Specialisation</b><br/>
-      Mining and Blacksmithing skill increased by 15.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152651816-926ef333-7fb0-4c46-909f-639d72109d90.png"><br/>
-      <b>Stoneform</b><br/>
-      While active, grants immunity to Bleed, Poison and Disease effects. In addition, physical damage taken is reduced by 20%. Lasts 15 sec.<br/>
-      <i>Instant cast, 5 min cooldown.</i>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152651838-ff4be474-a733-4fb2-8818-e0bd35107079.png"><br/>
-      <b>Find Traesure</b><br/>
-      Allows the dwarf to sense nearby treasure, making it appear on the minimap. Lasts until cancelled.
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152647717-fb20c109-de6b-473c-92bc-d024c829f25f.png"><br/>
-      <b>Night Elf</b>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652120-d8b84303-69e6-45f1-9505-b6313887b494.png"><br/>
-      <b>Moonglaive Specialisation</b><br/>
-      Skill with Polearms and One-Handed Swords increased by 5.
-    </td>
-    <td colspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152652161-ae3ae8fa-8066-475a-9c21-306a93431932.png"><br/>
-      <b>Quickness</b><br/>
-      Increases your Agility, movement and casting speed by 5%. This does not stack with other movement speed increasing effects.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652182-ba9ebec7-35c9-4695-a635-4da924c8a420.png"><br/>
-      <b>Nature resistance</b><br/>
-      Nature Resistance increased by 20.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652193-7f91630a-2428-4463-9e48-cb224fbcdc7a.png"><br/>
-      <b>Ultravision</b><br/>
-      Stealth and invisibility detection increased.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652347-c1354313-0a52-480a-954b-660b29b7b9a0.png"><br/>
-      <b>Wisp Spirit</b><br/>
-      Transforms into a wisp upon death, increasing speed by 50%.
-    </td>
-    <td colspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152652418-6810b7fe-e572-436c-9b50-3025169cdf91.png"><br/>
-      <b>Shadowmeld</b><br/>
-      Activate to slip into the shadows, reducing the chance for enemies to detect your presence. Lasts until cancelled or upon moving. While active, increased your Health and Mana regeneration rate. Night Elf Rogues and Druids are more difficult to detect while stealthed or prowling.<br/>
-      <i>Instant cast, 10 sec cooldown.</i>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152647728-e0823e60-38de-4e6e-a14d-019743e69ada.png"><br/>
-      <b>Gnome</b>
-    </td>
-    <td colspan="2">
-      <img src="?"><br/>
-      <b>Thirst for Adventure</b><br/>
-      Your skill with Fist and Dagger weapons increased by 5 and damage dealt versus Giants increased by 5%.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652460-7df29fb6-636c-494e-8cc4-1c602b1352e3.png"><br/>
-      <b>Expansive Mind</b><br/>
-      Intelligence increased by 10%.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652347-c1354313-0a52-480a-954b-660b29b7b9a0.png"><br/>
-      <b>Arcane Resistance</b><br/>
-      Arcane Resistance increased by 20.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652576-198c1369-8a97-4bc4-b54b-53abf79f86e3.png"><br/>
-      <b>Engineering Specialization</b><br/>
-      Engineering skill increased by 15.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652622-2a9d7b25-bb16-43f6-8336-6e5d82bd2a28.png"><br/>
-      <b>Escape Artist</b><br/>
-      Escape the effects of any movement speed reduction effect.<br/>
-      <i>Instant cast, 1 min cooldown.</i>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152647735-8eded22e-1e2f-4395-be95-a7b89774a6c9.png"><br/>
-      <b>Orc</b>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152651474-dc3c0aa2-d907-41df-a03b-6e497b0a358a.png"><br/>
-      <b>Axe Specialization</b><br/>
-      Skill with Axes and Two-Handed Axes increased by 5.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652876-f281b16e-c974-4a60-aa5a-39a64994f82f.png"><br/>
-      <b>Command</b><br/>
-      Damage dealt by Hunter and Warlock pats increased by 10%.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652860-5d864c1e-8897-4a00-86a1-003d26c41dd7.png"><br/>
-      <b>Hardiness</b><br/>
-      Chance to resist Stun effects increased by an additional 15%.
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152652812-980504b1-52b0-436d-beb4-4c3713fdb223.png"><br/>
-      <b>Blood Fury</b><br/>
-      Increases your chance to get a critical strike with all attacks and spells by 15% for 20 sec but reduces healing effects on you by 25%. <i>Instant cast, 5 min cooldown</i>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152647744-0ce405f1-aeaa-43bb-ad10-f2e486196a8f.png"><br/>
-      <b>Undead</b>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152647658-781b7f5b-88df-4b53-84e9-393233046afa.png"><br/>
-      <b>Sword Specialization</b><br/>
-      Skill with Swords and Two-Handed Swords increased by 5.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652965-b69e1449-9ea8-4614-be6d-41ffa0cb6454.png"><br/>
-      <b>Shadow resistance</b><br/>
-      Shadow resistance increased by 20.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652980-c8af8797-b418-4704-af5d-b44495b2111e.png"><br/>
-      <b>Underwater Breathing</b><br/>
-      Underwater Breath lasts 300% longer than normal.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152653005-925ab2af-5b81-4c95-ba11-27434700e13f.png"><br/>
-      <b>Fake Death</b><br/>
-      Feign death which may trick enemies into ignoring you. Lasts up to 30 sec. While inside dungeons, all threat is restored upon end of this effect.<br/>
-      <i>Instant cast, 5 min cooldown.</i>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152652934-5e816c62-8cf3-48c2-a25d-26f18ce2ec42.png"><br/>
-      <b>Cannibalize</b><br/>
-      When activated, regenerates 7% of total health every 2 sec for 10 sec. Only works on Humanoid or Undead corpses within 5 yds. Any movement, action, or damage taken while Cannibalizing will cancel the effect.<br/>
-      <i>Instant cast, 1 min cooldown</i>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652989-c9d673f4-5f3c-4cc0-a4f5-12539a24193e.png"><br/>
-      <b>Will of the Forsaken</b><br/>
-      Provides immunity to charm, Fear, and Sleep while active. May also be used while already affected by Charm, Fear Or Sleep. Lasts 5 sec.<br/>
-      <i>Instant cast, 3 min cooldown.</i>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152647749-f6bb9e0d-a3c1-45c8-8b7d-69584c60d276.png"><br/>
-      <b>Tauren</b>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152653060-9f0abde7-68fa-4be5-9f72-d7b5425f2c93.png"><br/>
-      <b>Pulverize</b><br/>
-      Skill with Fists, Maces and Two-Handed Maces increased by 5.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152653120-7f22d6d4-428c-4a97-bd18-05e1f8d3702b.png"><br/>
-      <b>Endurance</b><br/>
-      Total Health increased by 5%.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152652182-ba9ebec7-35c9-4695-a635-4da924c8a420.png"><br/>
-      <b>Nature Resistance</b><br/>
-      Nature Resistance increased by 20.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152653075-169227a3-7447-4e63-8b67-5b0f620ca602.png"><br/>
-      <b>Cultivation</b><br/>
-      Herbalism skill increased by 15.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152653219-a1423bed-4c8a-4b39-b34c-10945b8185af.png"><br/>
-      <b>Long Reach</b><br/>
-      Melee attack range is increased by 2 yds<br/>
-      <i>While this in not shown in the Spellbook, it is easily testable in a duel.</i>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152653142-0c253f1d-b04b-4f77-92c1-d3155b7cb77f.png"><br/>
-      <b>War Stomp</b><br/>
-      Stuns up to 5 enemies within 8 yds for 2 sec.<br/>
-      <i>Instant cast, 2 min cooldown.</i>
-    </td>
-    <td colspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152653106-f6cc8107-c1a8-40fd-884c-e910bb9eb37e.png"><br/>
-      <b>Plainsrunning</b><br/>
-      Gradually increases your running speed.<br/>
-      Any action or damage taken cancels the effect. Only usable outdoors and out of combat.<br/>
-      <i>Instant cast, no cooldown.</i>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152647753-aaa081ab-7dcf-4e0e-bccf-a1c0104ddd6d.png"><br/>
-      <b>Troll</b>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152651171-90f5c486-32d7-42c3-a13e-420de3661818.png"><br/>
-      <b>Hunting Weapons Specialization</b><br/>
-      Skill with Bow and Polearms increased by 5.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152651245-c2b95bdb-1135-4f3b-8673-9877ea7ddabd.png"><br/>
-      <b>Light Weapons Specialization</b><br/>
-      Skill with One Handed Axes, Daggers and Thworing Weapons increased by 5.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152651191-03067890-3e9d-498c-98f2-a4fc8b0918e8.png"><br/>
-      <b>Monster Slaying</b><br/>
-      Damage dealt versus Beasts and Dragonkins increased by 5%.
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152651206-83bd8b2e-99b3-435e-954a-8365f42bdd28.png"><br/>
-      <b>Regeneration</b><br/>
-      Health regeneration rate increased by 20%. 15% of total Health regeneration may continue during combat.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://user-images.githubusercontent.com/1638449/152651274-72725dcb-e3d6-403c-a0c6-f8eb48f1e150.png"><br/>
-      <b>Berserking</b><br/>
-      Increases your attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 20 sec.<br/>
-      <i>Instant cast, 3 min cooldown.</i>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary>Click here to see the list of racial abilities</summary>
+
+  <table>
+    <tr>
+      <td rowspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152647692-d4065a19-8657-48cc-b2c3-b1b82bbf0224.png"><br/>
+        <b>Human</b>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152647658-781b7f5b-88df-4b53-84e9-393233046afa.png"><br/>
+        <b>Sword Specialization</b><br/>
+        Skill with Swords and Two-Handed Swords increased by 5.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152648050-edacd31b-f69b-4a05-a0b0-9c53c25241a5.png"><br/>
+        <b>Mace Specialization</b><br/>
+        Skill with Maces and Two-Handed Maces increased by 5
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152648072-f9a93649-3d02-497c-9cc6-f88a5a228d22.png"><br/>
+        <b>Diplomacy</b><br/>
+        Reputation gains increased by 10%
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152648109-789f74e6-1828-4a2c-ba11-6c6f5687b2b9.png"><br/>
+        <b>Perception</b><br/>
+        Dramatically increases stealth detection.<br/>
+        <i>Instant cast, 2 min cooldown</i>.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152648255-b29e9ba8-078b-4f4a-a2fa-39aace587873.png"><br/>
+        <b>Perseverance</b><br/>
+        Removes all Fear, Silence and Movement Impairing effects.<br/>
+        <i>Instant cast, 3 min cooldown</i>.
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152647703-43ad4ce9-a12f-45fe-a3f0-2bd92101fff1.png"><br/>
+        <b>Dwarf</b>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152651474-dc3c0aa2-d907-41df-a03b-6e497b0a358a.png"><br/>
+        <b>Axe Specialization</b><br/>
+        Skill with Axes and Two-handed Axes increased by 5.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152651530-4b5e4082-916e-4e4d-88c9-c7fef997c381.png"><br/>
+        <b>Thunderer</b><br/>
+        Skill with Maces, Two-handed Maces and Guns increased by 5.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152651545-7b4a2cf1-8e82-4544-a4c1-a051f88e4386.png"><br/>
+        <b>Frost Resistance</b><br/>
+        Frost resistance increased by 20.
+      </td>
+      <td>
+        <img src=""><br/>
+        <b>Metallurgy Specialisation</b><br/>
+        Mining and Blacksmithing skill increased by 15.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152651816-926ef333-7fb0-4c46-909f-639d72109d90.png"><br/>
+        <b>Stoneform</b><br/>
+        While active, grants immunity to Bleed, Poison and Disease effects. In addition, physical damage taken is reduced by 20%. Lasts 15 sec.<br/>
+        <i>Instant cast, 5 min cooldown.</i>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152651838-ff4be474-a733-4fb2-8818-e0bd35107079.png"><br/>
+        <b>Find Traesure</b><br/>
+        Allows the dwarf to sense nearby treasure, making it appear on the minimap. Lasts until cancelled.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152647717-fb20c109-de6b-473c-92bc-d024c829f25f.png"><br/>
+        <b>Night Elf</b>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652120-d8b84303-69e6-45f1-9505-b6313887b494.png"><br/>
+        <b>Moonglaive Specialisation</b><br/>
+        Skill with Polearms and One-Handed Swords increased by 5.
+      </td>
+      <td colspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152652161-ae3ae8fa-8066-475a-9c21-306a93431932.png"><br/>
+        <b>Quickness</b><br/>
+        Increases your Agility, movement and casting speed by 5%. This does not stack with other movement speed increasing effects.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652182-ba9ebec7-35c9-4695-a635-4da924c8a420.png"><br/>
+        <b>Nature resistance</b><br/>
+        Nature Resistance increased by 20.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652193-7f91630a-2428-4463-9e48-cb224fbcdc7a.png"><br/>
+        <b>Ultravision</b><br/>
+        Stealth and invisibility detection increased.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652347-c1354313-0a52-480a-954b-660b29b7b9a0.png"><br/>
+        <b>Wisp Spirit</b><br/>
+        Transforms into a wisp upon death, increasing speed by 50%.
+      </td>
+      <td colspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152652418-6810b7fe-e572-436c-9b50-3025169cdf91.png"><br/>
+        <b>Shadowmeld</b><br/>
+        Activate to slip into the shadows, reducing the chance for enemies to detect your presence. Lasts until cancelled or upon moving. While active, increased your Health and Mana regeneration rate. Night Elf Rogues and Druids are more difficult to detect while stealthed or prowling.<br/>
+        <i>Instant cast, 10 sec cooldown.</i>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152647728-e0823e60-38de-4e6e-a14d-019743e69ada.png"><br/>
+        <b>Gnome</b>
+      </td>
+      <td colspan="2">
+        <img src="?"><br/>
+        <b>Thirst for Adventure</b><br/>
+        Your skill with Fist and Dagger weapons increased by 5 and damage dealt versus Giants increased by 5%.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652460-7df29fb6-636c-494e-8cc4-1c602b1352e3.png"><br/>
+        <b>Expansive Mind</b><br/>
+        Intelligence increased by 10%.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652347-c1354313-0a52-480a-954b-660b29b7b9a0.png"><br/>
+        <b>Arcane Resistance</b><br/>
+        Arcane Resistance increased by 20.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652576-198c1369-8a97-4bc4-b54b-53abf79f86e3.png"><br/>
+        <b>Engineering Specialization</b><br/>
+        Engineering skill increased by 15.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652622-2a9d7b25-bb16-43f6-8336-6e5d82bd2a28.png"><br/>
+        <b>Escape Artist</b><br/>
+        Escape the effects of any movement speed reduction effect.<br/>
+        <i>Instant cast, 1 min cooldown.</i>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152647735-8eded22e-1e2f-4395-be95-a7b89774a6c9.png"><br/>
+        <b>Orc</b>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152651474-dc3c0aa2-d907-41df-a03b-6e497b0a358a.png"><br/>
+        <b>Axe Specialization</b><br/>
+        Skill with Axes and Two-Handed Axes increased by 5.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652876-f281b16e-c974-4a60-aa5a-39a64994f82f.png"><br/>
+        <b>Command</b><br/>
+        Damage dealt by Hunter and Warlock pats increased by 10%.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652860-5d864c1e-8897-4a00-86a1-003d26c41dd7.png"><br/>
+        <b>Hardiness</b><br/>
+        Chance to resist Stun effects increased by an additional 15%.
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152652812-980504b1-52b0-436d-beb4-4c3713fdb223.png"><br/>
+        <b>Blood Fury</b><br/>
+        Increases your chance to get a critical strike with all attacks and spells by 15% for 20 sec but reduces healing effects on you by 25%. <i>Instant cast, 5 min cooldown</i>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152647744-0ce405f1-aeaa-43bb-ad10-f2e486196a8f.png"><br/>
+        <b>Undead</b>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152647658-781b7f5b-88df-4b53-84e9-393233046afa.png"><br/>
+        <b>Sword Specialization</b><br/>
+        Skill with Swords and Two-Handed Swords increased by 5.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652965-b69e1449-9ea8-4614-be6d-41ffa0cb6454.png"><br/>
+        <b>Shadow resistance</b><br/>
+        Shadow resistance increased by 20.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652980-c8af8797-b418-4704-af5d-b44495b2111e.png"><br/>
+        <b>Underwater Breathing</b><br/>
+        Underwater Breath lasts 300% longer than normal.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152653005-925ab2af-5b81-4c95-ba11-27434700e13f.png"><br/>
+        <b>Fake Death</b><br/>
+        Feign death which may trick enemies into ignoring you. Lasts up to 30 sec. While inside dungeons, all threat is restored upon end of this effect.<br/>
+        <i>Instant cast, 5 min cooldown.</i>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152652934-5e816c62-8cf3-48c2-a25d-26f18ce2ec42.png"><br/>
+        <b>Cannibalize</b><br/>
+        When activated, regenerates 7% of total health every 2 sec for 10 sec. Only works on Humanoid or Undead corpses within 5 yds. Any movement, action, or damage taken while Cannibalizing will cancel the effect.<br/>
+        <i>Instant cast, 1 min cooldown</i>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652989-c9d673f4-5f3c-4cc0-a4f5-12539a24193e.png"><br/>
+        <b>Will of the Forsaken</b><br/>
+        Provides immunity to charm, Fear, and Sleep while active. May also be used while already affected by Charm, Fear Or Sleep. Lasts 5 sec.<br/>
+        <i>Instant cast, 3 min cooldown.</i>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152647749-f6bb9e0d-a3c1-45c8-8b7d-69584c60d276.png"><br/>
+        <b>Tauren</b>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152653060-9f0abde7-68fa-4be5-9f72-d7b5425f2c93.png"><br/>
+        <b>Pulverize</b><br/>
+        Skill with Fists, Maces and Two-Handed Maces increased by 5.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152653120-7f22d6d4-428c-4a97-bd18-05e1f8d3702b.png"><br/>
+        <b>Endurance</b><br/>
+        Total Health increased by 5%.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152652182-ba9ebec7-35c9-4695-a635-4da924c8a420.png"><br/>
+        <b>Nature Resistance</b><br/>
+        Nature Resistance increased by 20.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152653075-169227a3-7447-4e63-8b67-5b0f620ca602.png"><br/>
+        <b>Cultivation</b><br/>
+        Herbalism skill increased by 15.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152653219-a1423bed-4c8a-4b39-b34c-10945b8185af.png"><br/>
+        <b>Long Reach</b><br/>
+        Melee attack range is increased by 2 yds<br/>
+        <i>While this in not shown in the Spellbook, it is easily testable in a duel.</i>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152653142-0c253f1d-b04b-4f77-92c1-d3155b7cb77f.png"><br/>
+        <b>War Stomp</b><br/>
+        Stuns up to 5 enemies within 8 yds for 2 sec.<br/>
+        <i>Instant cast, 2 min cooldown.</i>
+      </td>
+      <td colspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152653106-f6cc8107-c1a8-40fd-884c-e910bb9eb37e.png"><br/>
+        <b>Plainsrunning</b><br/>
+        Gradually increases your running speed.<br/>
+        Any action or damage taken cancels the effect. Only usable outdoors and out of combat.<br/>
+        <i>Instant cast, no cooldown.</i>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152647753-aaa081ab-7dcf-4e0e-bccf-a1c0104ddd6d.png"><br/>
+        <b>Troll</b>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152651171-90f5c486-32d7-42c3-a13e-420de3661818.png"><br/>
+        <b>Hunting Weapons Specialization</b><br/>
+        Skill with Bow and Polearms increased by 5.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152651245-c2b95bdb-1135-4f3b-8673-9877ea7ddabd.png"><br/>
+        <b>Light Weapons Specialization</b><br/>
+        Skill with One Handed Axes, Daggers and Thworing Weapons increased by 5.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152651191-03067890-3e9d-498c-98f2-a4fc8b0918e8.png"><br/>
+        <b>Monster Slaying</b><br/>
+        Damage dealt versus Beasts and Dragonkins increased by 5%.
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152651206-83bd8b2e-99b3-435e-954a-8365f42bdd28.png"><br/>
+        <b>Regeneration</b><br/>
+        Health regeneration rate increased by 20%. 15% of total Health regeneration may continue during combat.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://user-images.githubusercontent.com/1638449/152651274-72725dcb-e3d6-403c-a0c6-f8eb48f1e150.png"><br/>
+        <b>Berserking</b><br/>
+        Increases your attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 20 sec.<br/>
+        <i>Instant cast, 3 min cooldown.</i>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
+
+</details>
 
 Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsheets/d/1saPBmoyzwzV1NItwBV73F51GL8DxmDSL9a1YAbetr3Q/) list of racial changes.
 
