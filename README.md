@@ -409,29 +409,29 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       Skill with Swords and Two-Handed Swords increased by 5.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652965-b69e1449-9ea8-4614-be6d-41ffa0cb6454.png"><br/>
       <b>Shadow resistance</b><br/>
       Shadow resistance increased by 20.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652980-c8af8797-b418-4704-af5d-b44495b2111e.png"><br/>
       <b>Underwater Breathing</b><br/>
       Underwater Breath lasts 300% longer than normal.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652934-5e816c62-8cf3-48c2-a25d-26f18ce2ec42.png"><br/>
       <b>Cannibalize</b><br/>
       When activated, regenerates 7% of total health every 2 sec for 10 sec. Only works on Humanoid or Undead corpses within 5 yds. Any movement, action, or damage taken while Cannibalizing will cancel the effect.<br/>
       <i>Instant cast, 1 min cooldown</i>
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652989-c9d673f4-5f3c-4cc0-a4f5-12539a24193e.png"><br/>
       <b>Will of the Forsaken</b><br/>
       Provides immunity to charm, Fear, and Sleep while active. May also be used while already affected by Charm, Fear Or Sleep. Lasts 5 sec.<br/>
       <i>Instant cast, 3 min cooldown.</i>
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152653005-925ab2af-5b81-4c95-ba11-27434700e13f.png"><br/>
       <b>Fake Death</b><br/>
       Feign death which may trick enemies into ignoring you. Lasts up to 30 sec. While inside dungeons, all threat is restored upon end of this effect.<br/>
       <i>Instant cast, 5 min cooldown.</i>
