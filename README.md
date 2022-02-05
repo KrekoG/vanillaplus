@@ -509,7 +509,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Regeneration</b><br/>
       Health regeneration rate increased by 20%. 15% of total Health regeneration may continue during combat.
     </td>
-    <td>
+    <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152651274-72725dcb-e3d6-403c-a0c6-f8eb48f1e150.png"><br/>
       <b>Berserking</b><br/>
       Increases your attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 20 sec.<br/>
