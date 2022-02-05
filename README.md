@@ -252,9 +252,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
         Removes all Fear, Silence and Movement Impairing effects.<br/>
         <i>Instant cast, 3 min cooldown</i>.
       </td>
-      <td>
-      </td>
-      <td>
+      <td colspan="2">
       </td>
     </tr>
     <tr>
@@ -370,9 +368,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
         Escape the effects of any movement speed reduction effect.<br/>
         <i>Instant cast, 1 min cooldown.</i>
       </td>
-      <td>
-      </td>
-      <td>
+      <td colspan="2">
       </td>
     </tr>
     <tr>
@@ -404,9 +400,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
         <b>Blood Fury</b><br/>
         Increases your chance to get a critical strike with all attacks and spells by 15% for 20 sec but reduces healing effects on you by 25%. <i>Instant cast, 5 min cooldown</i>
       </td>
-      <td>
-      </td>
-      <td>
+      <td colspan="2">
       </td>
     </tr>
     <tr>
@@ -532,9 +526,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
         Increases your attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 20 sec.<br/>
         <i>Instant cast, 3 min cooldown.</i>
       </td>
-      <td>
-      </td>
-      <td>
+      <td colspan="2">
       </td>
     </tr>
   </table>
