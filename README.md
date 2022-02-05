@@ -630,7 +630,7 @@ Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsh
       </td>
     </tr>
   </table>
-
+  A thank you goes to Gesztenye who helped with inromation on Fear wards.
 </details>
 
 ### XP rates
