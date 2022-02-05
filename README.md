@@ -571,8 +571,8 @@ Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsh
       <td>
         <img src="https://user-images.githubusercontent.com/1638449/152659231-309f68ed-c081-430c-8b31-a1af1fb53612.png"><br/>
         <b>Fear Ward</b><br/>
-        Details missing.<br/>
-        <i>Details missing.</i>
+        Wards the friendly target against Fear. The next Fear effect used against the target will fail, using up the ward. Lasts 15 min.<br/>
+        <i>Instant cast, 40 sec cooldown.</i>
       </td>
     </tr>
       <tr>
