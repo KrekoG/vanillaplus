@@ -216,48 +216,66 @@ It's also a lot of work... Just ask the others in the discord if you are curious
 
 All that didn't stop Rafale from making [this](https://docs.google.com/spreadsheets/d/1saPBmoyzwzV1NItwBV73F51GL8DxmDSL9a1YAbetr3Q/) list of racial changes though.
 
-<table>
+<table style="text-align:center;">
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152647692-d4065a19-8657-48cc-b2c3-b1b82bbf0224.png"><br/> <b>Human</b>
+      <img src="https://user-images.githubusercontent.com/1638449/152647692-d4065a19-8657-48cc-b2c3-b1b82bbf0224.png"><br/>
+      <b>Human</b>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152647658-781b7f5b-88df-4b53-84e9-393233046afa.png"><br/> <b>Sword Specialization</b>: Skill with Swords and Two-Handed Swords increased by 5.
+      <img src="https://user-images.githubusercontent.com/1638449/152647658-781b7f5b-88df-4b53-84e9-393233046afa.png"><br/>
+      <b>Sword Specialization</b><br/>
+      Skill with Swords and Two-Handed Swords increased by 5.
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152648050-edacd31b-f69b-4a05-a0b0-9c53c25241a5.png"><br/> <b>Mace Specialization</b>: Skill with Maces and Two-Handed Maces increased by 5
+      <img src="https://user-images.githubusercontent.com/1638449/152648050-edacd31b-f69b-4a05-a0b0-9c53c25241a5.png"><br/>
+      <b>Mace Specialization</b><br/>
+      Skill with Maces and Two-Handed Maces increased by 5
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152648072-f9a93649-3d02-497c-9cc6-f88a5a228d22.png"><br/> <b>Diplomacy</b> - Reputation gains increased by 10%
+      <img src="https://user-images.githubusercontent.com/1638449/152648072-f9a93649-3d02-497c-9cc6-f88a5a228d22.png"><br/>
+      <b>Diplomacy</b><br/>
+      Reputation gains increased by 10%
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152648109-789f74e6-1828-4a2c-ba11-6c6f5687b2b9.png"><br/> <b>Perception</b> - Dramatically increases stealth detection. <i>Instant cast, 2 min cooldown</i>.
+      <img src="https://user-images.githubusercontent.com/1638449/152648109-789f74e6-1828-4a2c-ba11-6c6f5687b2b9.png"><br/>
+      <b>Perception</b><br/>
+      Dramatically increases stealth detection. <i>Instant cast, 2 min cooldown</i>.
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152648255-b29e9ba8-078b-4f4a-a2fa-39aace587873.png"><br/> <b>Perseverance</b> - Removes all Fear, Silence and Movement Impairing effects. <i>Instant cast, 3 min cooldown</i>.
+      <img src="https://user-images.githubusercontent.com/1638449/152648255-b29e9ba8-078b-4f4a-a2fa-39aace587873.png"><br/>
+      <b>Perseverance</b><br/>
+      Removes all Fear, Silence and Movement Impairing effects. <i>Instant cast, 3 min cooldown</i>.
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152647703-43ad4ce9-a12f-45fe-a3f0-2bd92101fff1.png"><br/> <b>Dwarf</b>
+      <img src="https://user-images.githubusercontent.com/1638449/152647703-43ad4ce9-a12f-45fe-a3f0-2bd92101fff1.png"><br/>
+      <b>Dwarf</b>
     </td>
     <td>
-      <b>Axe Specialization</b>: Skill with Axes and Two-handed Axes increased by 5.
+      <b>Axe Specialization</b><br/>
+      Skill with Axes and Two-handed Axes increased by 5.
     </td>
     <td>
-      <b>Thunderer</b>: Skill with Maces, Two-handed Maces and Guns increased by 5.
+      <b>Thunderer</b><br/>
+      Skill with Maces, Two-handed Maces and Guns increased by 5.
     </td>
     <td>
-      <b>Frost Resistance</b>: Frost resistance increased by 20.
+      <b>Frost Resistance</b><br/>
+      Frost resistance increased by 20.
     </td>
     <td>
-      <b>Metallurgy Specialisation</b>: Mining and Blacksmithing skill increased by 15.
+      <b>Metallurgy Specialisation</b><br/>
+      Mining and Blacksmithing skill increased by 15.
     </td>
     <td>
-      <b>Stoneform</b>: While active, grants immunity to Bleed, Poison and Disease effects. In addition, physical damage taken is reduced by 20%. Lasts 15 sec. <i>Instant cast, 5 min cooldown</i>
+      <b>Stoneform</b><br/>
+      While active, grants immunity to Bleed, Poison and Disease effects. In addition, physical damage taken is reduced by 20%. Lasts 15 sec. <i>Instant cast, 5 min cooldown</i>
     </td>
     <td>
-      <b>Find Traesure</b>: Allows the dwarf to sense nearby treasure, making it appear on the minimap. Lasts until cancelled.
+      <b>Find Traesure</b><br/>
+      Allows the dwarf to sense nearby treasure, making it appear on the minimap. Lasts until cancelled.
     </td>
   </tr>
 </table>
