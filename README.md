@@ -258,27 +258,33 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Dwarf</b>
     </td>
     <td>
+      <img src="https://user-images.githubusercontent.com/1638449/152651474-dc3c0aa2-d907-41df-a03b-6e497b0a358a.png"><br/>
       <b>Axe Specialization</b><br/>
       Skill with Axes and Two-handed Axes increased by 5.
     </td>
     <td>
+      <img src="https://user-images.githubusercontent.com/1638449/152651530-4b5e4082-916e-4e4d-88c9-c7fef997c381.png"><br/>
       <b>Thunderer</b><br/>
       Skill with Maces, Two-handed Maces and Guns increased by 5.
     </td>
     <td>
+      <img src="https://user-images.githubusercontent.com/1638449/152651545-7b4a2cf1-8e82-4544-a4c1-a051f88e4386.png"><br/>
       <b>Frost Resistance</b><br/>
       Frost resistance increased by 20.
     </td>
     <td>
+      <img src=""><br/>
       <b>Metallurgy Specialisation</b><br/>
       Mining and Blacksmithing skill increased by 15.
     </td>
     <td>
+      <img src="https://user-images.githubusercontent.com/1638449/152651816-926ef333-7fb0-4c46-909f-639d72109d90.png"><br/>
       <b>Stoneform</b><br/>
       While active, grants immunity to Bleed, Poison and Disease effects. In addition, physical damage taken is reduced by 20%. Lasts 15 sec.<br/>
       <i>Instant cast, 5 min cooldown.</i>
     </td>
     <td>
+      <img src="https://user-images.githubusercontent.com/1638449/152651838-ff4be474-a733-4fb2-8818-e0bd35107079.png"><br/>
       <b>Find Traesure</b><br/>
       Allows the dwarf to sense nearby treasure, making it appear on the minimap. Lasts until cancelled.
     </td>
