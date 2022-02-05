@@ -251,11 +251,9 @@ It's also a lot of work... Just ask the others in the discord if you are curious
     </td>
     <td>
     </td>
-    <td>
-    </td>
   </tr>
   <tr>
-    <td>
+    <td rowspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152647703-43ad4ce9-a12f-45fe-a3f0-2bd92101fff1.png"><br/>
       <b>Dwarf</b>
     </td>
@@ -274,6 +272,8 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Frost Resistance</b><br/>
       Frost resistance increased by 20.
     </td>
+  </tr>
+  <tr>
     <td>
       <img src=""><br/>
       <b>Metallurgy Specialisation</b><br/>
@@ -290,11 +290,9 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Find Traesure</b><br/>
       Allows the dwarf to sense nearby treasure, making it appear on the minimap. Lasts until cancelled.
     </td>
-    <td>
-    </td>
   </tr>
   <tr>
-    <td>
+    <td rowspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152647717-fb20c109-de6b-473c-92bc-d024c829f25f.png"><br/>
       <b>Night Elf</b>
     </td>
@@ -313,6 +311,8 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Nature resistance</b><br/>
       Nature Resistance increased by 20.
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/1638449/152652193-7f91630a-2428-4463-9e48-cb224fbcdc7a.png"><br/>
       <b>Ultravision</b><br/>
@@ -329,11 +329,9 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       Activate to slip into the shadows, reducing the chance for enemies to detect your presence. Lasts until cancelled or upon moving. While active, increased your Health and Mana regeneration rate. Night Elf Rogues and Druids are more difficult to detect while stealthed or prowling.<br/>
       <i>Instant cast, 10 sec cooldown.</i>
     </td>
-    <td>
-    </td>
   </tr>
   <tr>
-    <td>
+    <td rowspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152647728-e0823e60-38de-4e6e-a14d-019743e69ada.png"><br/>
       <b>Gnome</b>
     </td>
@@ -352,6 +350,8 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Arcane Resistance</b><br/>
       Arcane Resistance increased by 20.
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/1638449/152652576-198c1369-8a97-4bc4-b54b-53abf79f86e3.png"><br/>
       <b>Engineering Specialization</b><br/>
@@ -365,11 +365,9 @@ It's also a lot of work... Just ask the others in the discord if you are curious
     </td>
     <td>
     </td>
-    <td>
-    </td>
   </tr>
   <tr>
-    <td>
+    <td rowspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152647735-8eded22e-1e2f-4395-be95-a7b89774a6c9.png"><br/>
       <b>Orc</b>
     </td>
@@ -388,20 +386,18 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Hardiness</b><br/>
       Chance to resist Stun effects increased by an additional 15%.
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152652812-980504b1-52b0-436d-beb4-4c3713fdb223.png"><br/>
       <b>Blood Fury</b><br/>
       Increases your chance to get a critical strike with all attacks and spells by 15% for 20 sec but reduces healing effects on you by 25%. <i>Instant cast, 5 min cooldown</i>
     </td>
     <td>
     </td>
-    <td>
-    </td>
-    <td>
-    </td>
   </tr>
   <tr>
-    <td>
+    <td rowspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152647744-0ce405f1-aeaa-43bb-ad10-f2e486196a8f.png"><br/>
       <b>Undead</b>
     </td>
@@ -420,6 +416,8 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Underwater Breathing</b><br/>
       Underwater Breath lasts 300% longer than normal.
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/1638449/152652934-5e816c62-8cf3-48c2-a25d-26f18ce2ec42.png"><br/>
       <b>Cannibalize</b><br/>
@@ -438,11 +436,9 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       Feign death which may trick enemies into ignoring you. Lasts up to 30 sec. While inside dungeons, all threat is restored upon end of this effect.<br/>
       <i>Instant cast, 5 min cooldown.</i>
     </td>
-    <td>
-    </td>
   </tr>
   <tr>
-    <td>
+    <td rowspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152647749-f6bb9e0d-a3c1-45c8-8b7d-69584c60d276.png"><br/>
       <b>Tauren</b>
     </td>
@@ -466,6 +462,14 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Cultivation</b><br/>
       Herbalism skill increased by 15.
     </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/1638449/152653219-a1423bed-4c8a-4b39-b34c-10945b8185af.png"><br/>
+      <b>Long Reach</b><br/>
+      Melee attack range is increased by 2 yds<br/>
+      <i>While this in not shown in the Spellbook, it is easily testable in a duel.</i>
+    </td>
     <td>
       <img src="https://user-images.githubusercontent.com/1638449/152653142-0c253f1d-b04b-4f77-92c1-d3155b7cb77f.png"><br/>
       <b>War Stomp</b><br/>
@@ -479,15 +483,9 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       Any action or damage taken cancels the effect. Only usable outdoors and out of combat.<br/>
       <i>Instant cast, no cooldown.</i>
     </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152653219-a1423bed-4c8a-4b39-b34c-10945b8185af.png"><br/>
-      <b>Long Reach</b><br/>
-      Melee attack range is increased by 2 yds<br/>
-      <i>While this in not shown in the Spellbook, it is easily testable in a duel.</i>
-    </td>
   </tr>
   <tr>
-    <td>
+    <td rowspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152647753-aaa081ab-7dcf-4e0e-bccf-a1c0104ddd6d.png"><br/>
       <b>Troll</b>
     </td>
@@ -506,6 +504,8 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Monster Slaying</b><br/>
       Damage dealt versus Beasts and Dragonkins increased by 5%.
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/1638449/152651206-83bd8b2e-99b3-435e-954a-8365f42bdd28.png"><br/>
       <b>Regeneration</b><br/>
@@ -516,12 +516,6 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Berserking</b><br/>
       Increases your attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 20 sec.<br/>
       <i>Instant cast, 3 min cooldown.</i>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
     </td>
   </tr>
 </table>
