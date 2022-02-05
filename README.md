@@ -543,6 +543,106 @@ It's also a lot of work... Just ask the others in the discord if you are curious
 
 Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsheets/d/1saPBmoyzwzV1NItwBV73F51GL8DxmDSL9a1YAbetr3Q/) list of racial changes.
 
+#### Priest racials
+
+<details>
+  <summary>Click here to see the list of priest racial abilities</summary>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152647692-d4065a19-8657-48cc-b2c3-b1b82bbf0224.png"><br/>
+        <b>Human</b>
+      </td>
+      <td>
+        <img src="?"><br/>
+        <b>Desperate Prayer</b><br/>
+        Instantly heals the caster for # to #.<br/>
+        <i>Instant cast, 10 min cooldown.</i>
+      </td>
+      <td>
+        <img src="?"><br/>
+        <b>Feedback</b><br/>
+        The priest becomes surrounded with anti-magic energy. Any successful spell cast against the priest will burn # of the attacker's Mana, causing 1 Shadow damage for each point of Mana burned. Lasts 15 sec.<br/>
+        <i>Instant cast, 3 min cooldown.</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152647703-43ad4ce9-a12f-45fe-a3f0-2bd92101fff1.png"><br/>
+        <b>Dwarf</b>
+      </td>
+      <td>
+        <img src="?"><br/>
+        <b>Desperate Prayer</b><br/>
+        Instantly heals the caster for # to #.<br/>
+        <i>Instant cast, 10 min cooldown.</i>
+      </td>
+      <td>
+        <img src="?"><br/>
+        <b>Fear Ward</b><br/>
+        Details missing.<br/>
+        <i>Details missing.</i>
+      </td>
+    </tr>
+      <tr>
+        <td>
+          <img src="https://user-images.githubusercontent.com/1638449/152647717-fb20c109-de6b-473c-92bc-d024c829f25f.png"><br/>
+          <b>Night Elf</b>
+        </td>
+        <td>
+          <img src="?"><br/>
+          <b>Starshards</b><br/>
+          Rains starshards down on the enemy target’s head, causing # Arcane damage over 6 sec.<br/>
+          <i>Instant cast, 1 min cooldown.</i>
+        </td>
+        <td>
+          <img src="?"><br/>
+          <b>Elune’s Grace</b><br/>
+          Reduces ranged damage taken by # and increases chance to dodge by 50% for 15 sec.<br/>
+          <i>Instant cast, 5 min cooldown.</i>
+        </td>
+      </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152647744-0ce405f1-aeaa-43bb-ad10-f2e486196a8f.png"><br/>
+        <b>Undead</b>
+      </td>
+      <td>
+        <img src="?"><br/>
+        <b>Touch of Weakness</b><br/>
+        The next melee attack on the caster will cause # Shadow damage and reduce the damage caused by the attacker by # for 2 min.<br/>
+        <i>Instant cast.</i>
+      </td>
+      <td>
+        <img src="?"><br/>
+        <b>Devouring Plague</b><br/>
+        Afflicts the target with a disease that causes # Shadow damage over 24 sec. Damage caused by the Devouring Plague heals the caster.<br/>
+        <i>Instant cast.</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/1638449/152647753-aaa081ab-7dcf-4e0e-bccf-a1c0104ddd6d.png"><br/>
+        <b>Troll</b>
+      </td>
+      <td>
+        <img src="?"><br/>
+        <b>Hex of Weakness</b><br/>
+        Weakens the target enemy, reducing damage caused by # and reducing the effectiveness of any healing by 20%. Lasts 2 min.<br/>
+        <i>Instant cast.</i>
+      </td>
+      <td>
+        <img src="?"><br/>
+        <b>Shadowguard</b><br/>
+        The caster is surrounded by shadows. When a spell, melee or ranged attack hits the caster, the attacker will be struck for # Shadow damage. Attackers can only be damaged once every few seconds. This damage causes no threat. 3 charges. Lasts 10 min.<br/>
+        <i>Instant cast.</i>
+      </td>
+    </tr>
+  </table>
+
+</details>
+
 ### XP rates
 
 - Kills: x2
