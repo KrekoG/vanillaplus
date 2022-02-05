@@ -437,13 +437,11 @@ It's also a lot of work... Just ask the others in the discord if you are curious
         When activated, regenerates 7% of total health every 2 sec for 10 sec. Only works on Humanoid or Undead corpses within 5 yds. Any movement, action, or damage taken while Cannibalizing will cancel the effect.<br/>
         <i>Instant cast, 1 min cooldown</i>
       </td>
-      <td>
+      <td colspan="2">
         <img src="https://user-images.githubusercontent.com/1638449/152652989-c9d673f4-5f3c-4cc0-a4f5-12539a24193e.png"><br/>
         <b>Will of the Forsaken</b><br/>
         Provides immunity to charm, Fear, and Sleep while active. May also be used while already affected by Charm, Fear Or Sleep. Lasts 5 sec.<br/>
         <i>Instant cast, 3 min cooldown.</i>
-      </td>
-      <td>
       </td>
     </tr>
     <tr>
