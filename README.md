@@ -216,7 +216,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
 
 <table style="text-align:center;">
   <tr>
-    <td>
+    <td rowspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152647692-d4065a19-8657-48cc-b2c3-b1b82bbf0224.png"><br/>
       <b>Human</b>
     </td>
@@ -235,6 +235,8 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Diplomacy</b><br/>
       Reputation gains increased by 10%
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/1638449/152648109-789f74e6-1828-4a2c-ba11-6c6f5687b2b9.png"><br/>
       <b>Perception</b><br/>
