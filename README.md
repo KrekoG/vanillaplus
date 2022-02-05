@@ -214,7 +214,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
 
 ### Racials
 
-<table style="text-align:center;">
+<table>
   <tr>
     <td rowspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152647692-d4065a19-8657-48cc-b2c3-b1b82bbf0224.png"><br/>
