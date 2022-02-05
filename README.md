@@ -484,22 +484,27 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Troll</b>
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152651171-90f5c486-32d7-42c3-a13e-420de3661818.png"><br/>
       <b>Hunting Weapons Specialization</b><br/>
       Skill with Bow and Polearms increased by 5.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152651245-c2b95bdb-1135-4f3b-8673-9877ea7ddabd.png"><br/>
+      <b>Light Weapons Specialization</b><br/>
+      Skill with One Handed Axes, Daggers and Thworing Weapons increased by 5.
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/1638449/152651191-03067890-3e9d-498c-98f2-a4fc8b0918e8.png"><br/>
       <b>Monster Slaying</b><br/>
       Damage dealt versus Beasts and Dragonkins increased by 5%.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152651206-83bd8b2e-99b3-435e-954a-8365f42bdd28.png"><br/>
       <b>Regeneration</b><br/>
       Health regeneration rate increased by 20%. 15% of total Health regeneration may continue during combat.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152651274-72725dcb-e3d6-403c-a0c6-f8eb48f1e150.png"><br/>
       <b>Berserking</b><br/>
       Increases your attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 20 sec.<br/>
       <i>Instant cast, 3 min cooldown.</i>
