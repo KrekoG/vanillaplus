@@ -341,22 +341,22 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       Your skill with Fist and Dagger weapons increased by 5 and damage dealt versus Giants increased by 5%.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652460-7df29fb6-636c-494e-8cc4-1c602b1352e3.png"><br/>
       <b>Expansive Mind</b><br/>
       Intelligence increased by 10%.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652347-c1354313-0a52-480a-954b-660b29b7b9a0.png"><br/>
       <b>Arcane Resistance</b><br/>
       Arcane Resistance increased by 20.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652576-198c1369-8a97-4bc4-b54b-53abf79f86e3.png"><br/>
       <b>Engineering Specialization</b><br/>
       Engineering skill increased by 15.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652622-2a9d7b25-bb16-43f6-8336-6e5d82bd2a28.png"><br/>
       <b>Escape Artist</b><br/>
       Escape the effects of any movement speed reduction effect.<br/>
       <i>Instant cast, 1 min cooldown.</i>
