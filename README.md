@@ -555,13 +555,13 @@ Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsh
         <b>Human</b>
       </td>
       <td>
-        <img src="?"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659217-bf3aef8b-d9b0-4fc9-8e15-21110f069321.png"><br/>
         <b>Desperate Prayer</b><br/>
         Instantly heals the caster for # to #.<br/>
         <i>Instant cast, 10 min cooldown.</i>
       </td>
       <td>
-        <img src="?"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659197-deecfdf6-5a1e-438b-b471-5dbffc601e8f.png"><br/>
         <b>Feedback</b><br/>
         The priest becomes surrounded with anti-magic energy. Any successful spell cast against the priest will burn # of the attacker's Mana, causing 1 Shadow damage for each point of Mana burned. Lasts 15 sec.<br/>
         <i>Instant cast, 3 min cooldown.</i>
@@ -573,13 +573,13 @@ Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsh
         <b>Dwarf</b>
       </td>
       <td>
-        <img src="?"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659217-bf3aef8b-d9b0-4fc9-8e15-21110f069321.png"><br/>
         <b>Desperate Prayer</b><br/>
         Instantly heals the caster for # to #.<br/>
         <i>Instant cast, 10 min cooldown.</i>
       </td>
       <td>
-        <img src="?"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659231-309f68ed-c081-430c-8b31-a1af1fb53612.png"><br/>
         <b>Fear Ward</b><br/>
         Details missing.<br/>
         <i>Details missing.</i>
@@ -591,13 +591,13 @@ Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsh
           <b>Night Elf</b>
         </td>
         <td>
-          <img src="?"><br/>
+          <img src="https://user-images.githubusercontent.com/1638449/152659233-ae1cd4ed-5c04-4e3c-a730-ed715c3904d8.png"><br/>
           <b>Starshards</b><br/>
           Rains starshards down on the enemy target’s head, causing # Arcane damage over 6 sec.<br/>
           <i>Instant cast, 1 min cooldown.</i>
         </td>
         <td>
-          <img src="?"><br/>
+          <img src="https://user-images.githubusercontent.com/1638449/152659257-ce11afb5-dc87-4f0a-8755-f93ec333661d.png"><br/>
           <b>Elune’s Grace</b><br/>
           Reduces ranged damage taken by # and increases chance to dodge by 50% for 15 sec.<br/>
           <i>Instant cast, 5 min cooldown.</i>
@@ -609,13 +609,13 @@ Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsh
         <b>Undead</b>
       </td>
       <td>
-        <img src="?"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659275-a46aeb23-7dcf-4b1b-9700-e92cfab043e8.png"><br/>
         <b>Touch of Weakness</b><br/>
         The next melee attack on the caster will cause # Shadow damage and reduce the damage caused by the attacker by # for 2 min.<br/>
         <i>Instant cast.</i>
       </td>
       <td>
-        <img src="?"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659282-3dd5ac85-914a-4136-bcd8-6823c539e8a4.png"><br/>
         <b>Devouring Plague</b><br/>
         Afflicts the target with a disease that causes # Shadow damage over 24 sec. Damage caused by the Devouring Plague heals the caster.<br/>
         <i>Instant cast.</i>
@@ -627,13 +627,13 @@ Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsh
         <b>Troll</b>
       </td>
       <td>
-        <img src="?"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659305-651fed57-f7ff-423f-8cf6-2c0dfd7b3f92.png"><br/>
         <b>Hex of Weakness</b><br/>
         Weakens the target enemy, reducing damage caused by # and reducing the effectiveness of any healing by 20%. Lasts 2 min.<br/>
         <i>Instant cast.</i>
       </td>
       <td>
-        <img src="?"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659331-0dc313c3-d78f-4425-a569-8c5023fb29fa.png"><br/>
         <b>Shadowguard</b><br/>
         The caster is surrounded by shadows. When a spell, melee or ranged attack hits the caster, the attacker will be struck for # Shadow damage. Attackers can only be damaged once every few seconds. This damage causes no threat. 3 charges. Lasts 10 min.<br/>
         <i>Instant cast.</i>
