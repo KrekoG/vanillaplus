@@ -278,7 +278,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
         Frost resistance increased by 20.
       </td>
       <td>
-        <img src=""><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659920-9daa383b-8f30-4d61-9581-a8f30cefaa10.png"><br/>
         <b>Metallurgy Specialisation</b><br/>
         Mining and Blacksmithing skill increased by 15.
       </td>
@@ -343,7 +343,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
         <b>Gnome</b>
       </td>
       <td colspan="2">
-        <img src="?"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152659931-f5b81838-f22a-4c65-93e3-217e3072d579.png"><br/>
         <b>Thirst for Adventure</b><br/>
         Your skill with Fist and Dagger weapons increased by 5 and damage dealt versus Giants increased by 5%.
       </td>
