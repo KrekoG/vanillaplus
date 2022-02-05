@@ -445,40 +445,40 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Tauren</b>
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152653060-9f0abde7-68fa-4be5-9f72-d7b5425f2c93.png"><br/>
       <b>Pulverize</b><br/>
       Skill with Fists, Maces and Two-Handed Maces increased by 5.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152653120-7f22d6d4-428c-4a97-bd18-05e1f8d3702b.png"><br/>
       <b>Endurance</b><br/>
       Total Health increased by 5%.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652182-ba9ebec7-35c9-4695-a635-4da924c8a420.png"><br/>
       <b>Nature Resistance</b><br/>
       Nature Resistance increased by 20.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152653075-169227a3-7447-4e63-8b67-5b0f620ca602.png"><br/>
       <b>Cultivation</b><br/>
       Herbalism skill increased by 15.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152653142-0c253f1d-b04b-4f77-92c1-d3155b7cb77f.png"><br/>
       <b>War Stomp</b><br/>
       Stuns up to 5 enemies within 8 yds for 2 sec.<br/>
       <i>Instant cast, 2 min cooldown.</i>
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152653106-f6cc8107-c1a8-40fd-884c-e910bb9eb37e.png"><br/>
       <b>Plainsrunning</b><br/>
       Gradually increases your running speed.<br/>
       Any action or damage taken cancels the effect. Only usable outdoors and out of combat.<br/>
       <i>Instant cast, no cooldown.</i>
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152653219-a1423bed-4c8a-4b39-b34c-10945b8185af.png"><br/>
       <b>Long Reach</b><br/>
       Melee attack range is increased by 2 yds<br/>
       <i>While this in not shown in the Spellbook, it is easily testable in a duel.</i>
