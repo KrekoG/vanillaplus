@@ -235,19 +235,21 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Diplomacy</b><br/>
       Reputation gains increased by 10%
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/1638449/152648109-789f74e6-1828-4a2c-ba11-6c6f5687b2b9.png"><br/>
       <b>Perception</b><br/>
       Dramatically increases stealth detection.<br/>
       <i>Instant cast, 2 min cooldown</i>.
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152648255-b29e9ba8-078b-4f4a-a2fa-39aace587873.png"><br/>
       <b>Perseverance</b><br/>
       Removes all Fear, Silence and Movement Impairing effects.<br/>
       <i>Instant cast, 3 min cooldown</i>.
+    </td>
+    <td>
     </td>
     <td>
     </td>
@@ -272,14 +274,14 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Frost Resistance</b><br/>
       Frost resistance increased by 20.
     </td>
-  </tr>
-  <tr>
     <td>
       <img src=""><br/>
       <b>Metallurgy Specialisation</b><br/>
       Mining and Blacksmithing skill increased by 15.
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152651816-926ef333-7fb0-4c46-909f-639d72109d90.png"><br/>
       <b>Stoneform</b><br/>
       While active, grants immunity to Bleed, Poison and Disease effects. In addition, physical damage taken is reduced by 20%. Lasts 15 sec.<br/>
@@ -289,6 +291,8 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <img src="https://user-images.githubusercontent.com/1638449/152651838-ff4be474-a733-4fb2-8818-e0bd35107079.png"><br/>
       <b>Find Traesure</b><br/>
       Allows the dwarf to sense nearby treasure, making it appear on the minimap. Lasts until cancelled.
+    </td>
+    <td>
     </td>
   </tr>
   <tr>
@@ -301,7 +305,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Moonglaive Specialisation</b><br/>
       Skill with Polearms and One-Handed Swords increased by 5.
     </td>
-    <td>
+    <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152652161-ae3ae8fa-8066-475a-9c21-306a93431932.png"><br/>
       <b>Quickness</b><br/>
       Increases your Agility, movement and casting speed by 5%. This does not stack with other movement speed increasing effects.
@@ -323,7 +327,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Wisp Spirit</b><br/>
       Transforms into a wisp upon death, increasing speed by 50%.
     </td>
-    <td>
+    <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152652418-6810b7fe-e572-436c-9b50-3025169cdf91.png"><br/>
       <b>Shadowmeld</b><br/>
       Activate to slip into the shadows, reducing the chance for enemies to detect your presence. Lasts until cancelled or upon moving. While active, increased your Health and Mana regeneration rate. Night Elf Rogues and Druids are more difficult to detect while stealthed or prowling.<br/>
@@ -335,7 +339,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <img src="https://user-images.githubusercontent.com/1638449/152647728-e0823e60-38de-4e6e-a14d-019743e69ada.png"><br/>
       <b>Gnome</b>
     </td>
-    <td>
+    <td colspan="2">
       <img src="?"><br/>
       <b>Thirst for Adventure</b><br/>
       Your skill with Fist and Dagger weapons increased by 5 and damage dealt versus Giants increased by 5%.
@@ -365,6 +369,8 @@ It's also a lot of work... Just ask the others in the discord if you are curious
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -386,12 +392,16 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Hardiness</b><br/>
       Chance to resist Stun effects increased by an additional 15%.
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152652812-980504b1-52b0-436d-beb4-4c3713fdb223.png"><br/>
       <b>Blood Fury</b><br/>
       Increases your chance to get a critical strike with all attacks and spells by 15% for 20 sec but reduces healing effects on you by 25%. <i>Instant cast, 5 min cooldown</i>
+    </td>
+    <td>
     </td>
     <td>
     </td>
@@ -416,9 +426,15 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Underwater Breathing</b><br/>
       Underwater Breath lasts 300% longer than normal.
     </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/1638449/152653005-925ab2af-5b81-4c95-ba11-27434700e13f.png"><br/>
+      <b>Fake Death</b><br/>
+      Feign death which may trick enemies into ignoring you. Lasts up to 30 sec. While inside dungeons, all threat is restored upon end of this effect.<br/>
+      <i>Instant cast, 5 min cooldown.</i>
+    </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152652934-5e816c62-8cf3-48c2-a25d-26f18ce2ec42.png"><br/>
       <b>Cannibalize</b><br/>
       When activated, regenerates 7% of total health every 2 sec for 10 sec. Only works on Humanoid or Undead corpses within 5 yds. Any movement, action, or damage taken while Cannibalizing will cancel the effect.<br/>
@@ -431,10 +447,6 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <i>Instant cast, 3 min cooldown.</i>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/1638449/152653005-925ab2af-5b81-4c95-ba11-27434700e13f.png"><br/>
-      <b>Fake Death</b><br/>
-      Feign death which may trick enemies into ignoring you. Lasts up to 30 sec. While inside dungeons, all threat is restored upon end of this effect.<br/>
-      <i>Instant cast, 5 min cooldown.</i>
     </td>
   </tr>
   <tr>
@@ -476,7 +488,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       Stuns up to 5 enemies within 8 yds for 2 sec.<br/>
       <i>Instant cast, 2 min cooldown.</i>
     </td>
-    <td>
+    <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152653106-f6cc8107-c1a8-40fd-884c-e910bb9eb37e.png"><br/>
       <b>Plainsrunning</b><br/>
       Gradually increases your running speed.<br/>
@@ -504,18 +516,22 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Monster Slaying</b><br/>
       Damage dealt versus Beasts and Dragonkins increased by 5%.
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/1638449/152651206-83bd8b2e-99b3-435e-954a-8365f42bdd28.png"><br/>
       <b>Regeneration</b><br/>
       Health regeneration rate increased by 20%. 15% of total Health regeneration may continue during combat.
     </td>
+  </tr>
+  <tr>
     <td colspan="2">
       <img src="https://user-images.githubusercontent.com/1638449/152651274-72725dcb-e3d6-403c-a0c6-f8eb48f1e150.png"><br/>
       <b>Berserking</b><br/>
       Increases your attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 20 sec.<br/>
       <i>Instant cast, 3 min cooldown.</i>
+    </td>
+    <td>
+    </td>
+    <td>
     </td>
   </tr>
 </table>
