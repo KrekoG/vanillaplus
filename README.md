@@ -472,7 +472,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/1638449/152653219-a1423bed-4c8a-4b39-b34c-10945b8185af.png"><br/>
+        <img src="https://user-images.githubusercontent.com/1638449/152660295-227bd1ef-f921-42b4-ad4f-d76d73c71710.png"><br/>
         <b>Long Reach</b><br/>
         Melee attack range is increased by 2 yds<br/>
         <i>While this in not shown in the Spellbook, it is easily testable in a duel.</i>
