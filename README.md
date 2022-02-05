@@ -216,6 +216,17 @@ It's also a lot of work... Just ask the others in the discord if you are curious
 
 All that didn't stop Rafale from making [this](https://docs.google.com/spreadsheets/d/1saPBmoyzwzV1NItwBV73F51GL8DxmDSL9a1YAbetr3Q/) list of racial changes though.
 
+<table>
+  <tr>
+    <td>![image](https://user-images.githubusercontent.com/1638449/152647692-d4065a19-8657-48cc-b2c3-b1b82bbf0224.png) Human</td>
+    <td>![image](https://user-images.githubusercontent.com/1638449/152647658-781b7f5b-88df-4b53-84e9-393233046afa.png) Sword Specialization: Skill with Swords and Two-Handed Swords increased by 5.</td>
+    <td>![image](https://user-images.githubusercontent.com/1638449/152648050-edacd31b-f69b-4a05-a0b0-9c53c25241a5.png) Mace Specialization: Skill with Maces and Two-Handed Maces increased by 5</td>
+    <td>![image](https://user-images.githubusercontent.com/1638449/152648072-f9a93649-3d02-497c-9cc6-f88a5a228d22.png) Diplomacy - Reputation gains increased by 10%</td>
+    <td>![image](https://user-images.githubusercontent.com/1638449/152648109-789f74e6-1828-4a2c-ba11-6c6f5687b2b9.png) Perception - Dramatically increases stealth detection. Instant cast, 2 minutes cooldown.</td>
+    <td>![image](https://user-images.githubusercontent.com/1638449/152648255-b29e9ba8-078b-4f4a-a2fa-39aace587873.png) Perseverance - Removes all Fear, Silence and Movement Impairing effects. Instant cast, 3 minutes cooldown.</td>
+  <tr>
+</table>
+
 | Race | Weapon specialization | Stats increase | Resistance increase | Profession increase | Passive 1 | Passive 2 | Active 1 | Active 2 | Active 3
 |:----------:|:-------------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | ![image](https://user-images.githubusercontent.com/1638449/152647692-d4065a19-8657-48cc-b2c3-b1b82bbf0224.png) Human | ![image](https://user-images.githubusercontent.com/1638449/152647658-781b7f5b-88df-4b53-84e9-393233046afa.png) Sword Specialization: Skill with Swords and Two-Handed Swords increased by 5. ![image](https://user-images.githubusercontent.com/1638449/152648050-edacd31b-f69b-4a05-a0b0-9c53c25241a5.png) Mace Specialization: Skill with Maces and Two-Handed Maces increased by 5 | ![image](https://user-images.githubusercontent.com/1638449/152647843-85293c52-ad17-412a-814b-2717e9c425e2.png) The Human Spirit - Spirit increased by 10% | - | - | ![image](https://user-images.githubusercontent.com/1638449/152648072-f9a93649-3d02-497c-9cc6-f88a5a228d22.png) Diplomcay - Reputation gains increased by 10% | - | ![image](https://user-images.githubusercontent.com/1638449/152648109-789f74e6-1828-4a2c-ba11-6c6f5687b2b9.png) Perception - Dramatically increases stealth detection. Instant cast, 2 minutes cooldown. | ![image](https://user-images.githubusercontent.com/1638449/152648255-b29e9ba8-078b-4f4a-a2fa-39aace587873.png) Perseverance - Removes all Fear, Silence and Movement Impairing effects. Instant cast, 3 minutes cooldown. | - |
