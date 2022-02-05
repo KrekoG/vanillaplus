@@ -372,22 +372,22 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Orc</b>
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152651474-dc3c0aa2-d907-41df-a03b-6e497b0a358a.png"><br/>
       <b>Axe Specialization</b><br/>
       Skill with Axes and Two-Handed Axes increased by 5.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652876-f281b16e-c974-4a60-aa5a-39a64994f82f.png"><br/>
       <b>Command</b><br/>
       Damage dealt by Hunter and Warlock pats increased by 10%.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652860-5d864c1e-8897-4a00-86a1-003d26c41dd7.png"><br/>
       <b>Hardiness</b><br/>
       Chance to resist Stun effects increased by an additional 15%.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652812-980504b1-52b0-436d-beb4-4c3713fdb223.png"><br/>
       <b>Blood Fury</b><br/>
       Increases your chance to get a critical strike with all attacks and spells by 15% for 20 sec but reduces healing effects on you by 25%. <i>Instant cast, 5 min cooldown</i>
     </td>
