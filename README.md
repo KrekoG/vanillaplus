@@ -297,32 +297,32 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <b>Night Elf</b>
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652120-d8b84303-69e6-45f1-9505-b6313887b494.png"><br/>
       <b>Moonglaive Specialisation</b><br/>
       Skill with Polearms and One-Handed Swords increased by 5.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652161-ae3ae8fa-8066-475a-9c21-306a93431932.png"><br/>
       <b>Quickness</b><br/>
       Increases your Agility, movement and casting speed by 5%. This does not stack with other movement speed increasing effects.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652182-ba9ebec7-35c9-4695-a635-4da924c8a420.png"><br/>
       <b>Nature resistance</b><br/>
       Nature Resistance increased by 20.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652193-7f91630a-2428-4463-9e48-cb224fbcdc7a.png"><br/>
       <b>Ultravision</b><br/>
       Stealth and invisibility detection increased.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652347-c1354313-0a52-480a-954b-660b29b7b9a0.png"><br/>
       <b>Wisp Spirit</b><br/>
       Transforms into a wisp upon death, increasing speed by 50%.
     </td>
     <td>
-      <img src="?"><br/>
+      <img src="https://user-images.githubusercontent.com/1638449/152652418-6810b7fe-e572-436c-9b50-3025169cdf91.png"><br/>
       <b>Shadowmeld</b><br/>
       Activate to slip into the shadows, reducing the chance for enemies to detect your presence. Lasts until cancelled or upon moving. While active, increased your Health and Mana regeneration rate. Night Elf Rogues and Druids are more difficult to detect while stealthed or prowling.<br/>
       <i>Instant cast, 10 sec cooldown.</i>
