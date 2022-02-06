@@ -687,6 +687,8 @@ The badassery of reaching lvl 60 with the buff still intact are rewarded with fo
 - An announcement made honouring your glory
 - The sweet release from the eternal fear of in-game death, as the original buff is finally gone.
 
+![image](https://user-images.githubusercontent.com/1638449/152675632-c2d5fbe4-c444-4a93-b1eb-9109327dc590.png)
+
 Also worth mentioning that the challenge cannot be lost due to fall damage or being killed in PvP.
 
 ### Rares, elites, and mobs in general
