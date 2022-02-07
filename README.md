@@ -640,7 +640,9 @@ Partial credit goes to Rafale for making [this](https://docs.google.com/spreadsh
 - Elite & Dungeon Quests: x10
 - Rested XP bonus gaining speed: x5
 
-If you find these rates too high for your taste, you may lower them using `.xp <number between 1 and 0>` to reduce it. For example `.xp 0.5` would half your xp gain.
+If you find these rates too high for your taste, you may lower them using `.xp <number between 1 and 0.1>` to reduce it. For example `.xp 0.5` would half your xp gain.
+
+You may also turn your experience gain off by typing `.experience off` and turn it back on later with `.experience on`
 
 ### Changing account password
 
