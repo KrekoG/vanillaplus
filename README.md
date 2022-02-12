@@ -666,6 +666,7 @@ Type `.server info` in game. The response will let you know the current active p
 - Azuregos (world boss)
 - Lord Kazzak (world boss)
 - Kurinnaxx (world boss)
+- Lady Hederine (world boss)
 
 The debuff limit is currently 40.
 
