@@ -817,9 +817,7 @@ Bringing positive attention to the server is also a great way to help the projec
 
 ### Reporting bugs
 
-The official bug reporting tool can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScVN-8EP_yRSnDigBbUPLsw7F0O8Zkom8P3dC7a2tRpLyOebA/viewform). Before reporting please make sure that it is indeed a bug. Your best bet is probably to ask about in the discord first and actually wait for some responses before making the report to avoid wasting the developers time.
-
-Provide as much detail as possible so they will have an easier time recreating the issue. Reports like "I died" is not helping. However a detailed report with screenshots, map locations, character information, etc will allow for quick recognition of an issue.
+The official bug reporting tool can be found [here](https://github.com/VanillaPlusTeam/bug-tracker). Before reporting please make sure that it is indeed a bug. Your best bet is probably to ask about in the discord first and actually wait for some responses before making the report to avoid wasting the developers time. Follow the example provided and provide as much detail as possible so they will have an easier time recreating the issue. Reports like "I died" is not helping. However a detailed report with screenshots, map locations, character information, etc will allow for quick recognition of an issue.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1638449/150676674-635d9298-4ea9-4d04-8d58-f7adf6c76a41.png">
