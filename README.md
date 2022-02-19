@@ -860,6 +860,7 @@ You may also want to check the pinned messages of the #addons channel and may as
 - [pfUI](https://github.com/shagu/pfUI/) - An addon that reworks most aspect of the UI and more
 - [Postal](https://legacy-wow.com/vanilla-addons/postal/) - A mail helper addon
 - [SellValue](https://legacy-wow.com/vanilla-addons/sellvalue/) - An addon displaying the sell value of items, credit: Zarb
+- [SpamThrottle](https://github.com/Orukxu/SpamThrottle) - An addon that throttles spam messages, credit: FireStoat
 - [SuperIgnore](https://github.com/EinBaum/SuperIgnore) - An addon that extands your ignore list, credit: Rist
 
 #### How to check that an addon is installed correctly
