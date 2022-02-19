@@ -852,6 +852,16 @@ You may also want to check the pinned messages of the #addons channel and may as
 - [dkpminus vanilla wow addons](https://www.dkpminus.com/wow/addons/expansion/vanilla-wow/) - credit: Chuck
 - [Twinstar's github list](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) - credit: Thirinena
 
+#### Links to frequently requested addons:
+- [Bartender](https://legacy-wow.com/vanilla-addons/bartender-2/) - An action bar addon
+- [Bongos](https://github.com/UndercityAddons-Vanilla/Bongos) - An action bar addon, credit: Cancermage
+- [HonorSpy](https://github.com/kakysha/HonorSpy/tree/vanilla) - A honor information gathering addon, credit: Martinz
+- [MikScrollingBattleText](https://github.com/AtheneGenesis/Vanilla_MikScrollingBattleText) - A scrolling combat text addon
+- [pfUI](https://github.com/shagu/pfUI/) - An addon that reworks most aspect of the UI and more
+- [Postal](https://legacy-wow.com/vanilla-addons/postal/) - A mail helper addon
+- [SellValue](https://legacy-wow.com/vanilla-addons/sellvalue/) - An addon displaying the sell value of items, credit: Zarb
+- [SuperIgnore](https://github.com/EinBaum/SuperIgnore) - An addon that extands your ignore list, credit: Rist
+
 #### How to check that an addon is installed correctly
 
 To check that you have installed it properly, make sure that the structure in place is the following:
@@ -867,7 +877,7 @@ Also, if the folder's name is `<addon>-master`, while the `.toc` file is `<addon
 ### Macros
 
 Vanilla macros are harder to write as many beloved features were added to the game in later expansions and some functionalities simply don't exist in vanilla.
-But [here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) is a great resource to take as an example what one can still achieve with a bit of scripting.
+But [here](https://forum.nostalrius.org/viewtopic.php?f=38&t=21017) and [here](https://www.briankoponen.com/vanilla-world-warcraft-druid-macros/) are some great resources to take as an example what one can still achieve with a bit of scripting.
 
 Another great resouce can be found [here](https://github.com/DBFBlackbull/wow-macros/blob/master/Vanilla%201.12/Warrior-macros.md), credit goes to [DBFBlackbull](https://github.com/DBFBlackbull/) for the nice explanations. While his focuses on warrior macros, reading through his page helps understand how macros function in vanilla.
 
