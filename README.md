@@ -756,6 +756,12 @@ Also when a warlock does the summoning one helper is enough to complete the spel
 
 Meeting Stones, also known as Summoning Stones now require 4 players to be present to be able to summon someone. The first player's level is used for the level restriction calculation, the level of the helpers don't matter.
 
+#### Scarlet Monestery is not what it used to be
+
+As it is being turned into a lvl 60 raid, the normal, low level SM is not available. Not to worry, the class quests leading to it are still doable, their text has been changed, make sure to read them.
+
+![image](https://user-images.githubusercontent.com/1638449/154848917-d595f86d-1c2b-41e7-973c-272c996470c5.png)
+
 #### Dangerous heights
 
 There is an increased fall damage on the server.
