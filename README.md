@@ -165,7 +165,7 @@ The game does not allow you to put 5 points on a talent that should allow 5 poin
 
 ### I get disconnected 30 seconds after loging in
 
-You get disconnected after logging in when using the `WoW.exe` to launch the game.
+You get disconnected after logging in when using the `WoW.exe` to launch the game on a Windows operating system.
 
 #### Solution:
 
