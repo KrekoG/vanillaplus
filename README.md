@@ -845,6 +845,7 @@ You may also want to check the pinned messages of the #addons channel and may as
 - [AtlasLoot Enhanced for Vanilla+](https://github.com/hawaiisa/Atlas)
 - [BloodlustHelper](https://github.com/KrekoG/BloodlustHelper)
 - [pfUI Vanilla Plus](https://github.com/heroclastus09/pfui-vanillaplus)
+- [VanillaPlus-Actions](https://github.com/Johnny-Gat/VanillaPlus-Actions)
 
 #### Addons maintained by the community:
 - [ag_UnitFrames](https://github.com/KrekoG/ag_UnitFrames)
