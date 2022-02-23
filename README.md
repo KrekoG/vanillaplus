@@ -15,6 +15,7 @@ Contents of this guide:
   - [My screen turned to black](#my-screen-turned-to-black)
   - [My addons don't work properly](#my-addons-dont-work-properly)
   - [My talent tree doesn't work properly or is still the same as original vanilla](#my-talent-tree-doesnt-work-properly-or-is-still-the-same-as-original-vanilla)
+  - [I get disconnected 30 seconds after loging in](#i-get-disconnected-30-seconds-after-loging-in)
   - [My mouse is too sensitive](#my-mouse-is-too-sensitive)
   - [Getting disconnected from the server as you log in](#getting-disconnected-from-the-server-as-you-log-in)
   - [All the names are gone](#all-the-names-are-gone)
@@ -145,6 +146,7 @@ Read all the points, if none of them applies, ask for help in the support or add
 
 #### Solutions:
 
+- Check [if you have installed it properly](#how-to-check-that-an-addon-is-installed-correctly).
 - The version of the addon has to be compatible with the game. *Classic* is not *Vanilla*. If the addons are for `Classic`, they will NOT work. The client's version is `1.12.1`. If the addon was made for previous versions, you will need to tick `Load out of date AddOns` on the character selection screens bottom left `AddOns` menu.
 - Some addons need to work with large amount of data to work properly. You may allow for this by changing the `Script Memory (MB)` option to `0` for unlimited memory access on the character selection screens bottom left `AddOns` menu.
 
@@ -160,6 +162,14 @@ The game does not allow you to put 5 points on a talent that should allow 5 poin
   - If you are a Mac user, make sure the file extension is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
 - Make sure you have no other custom patches that overwrites the content of `patch-3.MPQ`. The load order is alphabetical.
 - Delete the game's cache by deleting the content of `<wow folder>/WDB` folder.
+
+### I get disconnected 30 seconds after loging in
+
+You get disconnected after logging in when using the `WoW.exe` to launch the game.
+
+#### Solution:
+
+- Remove the compatibility mode set on `WoW.exe` by going to its Properties, Compatibility mode and unticking the `Run this program in compatibility mode for:` option.
 
 ### My mouse is too sensitive
 
