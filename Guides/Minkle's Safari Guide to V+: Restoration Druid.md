@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1638449/156051888-c4830e08-8a94-48cf-a63c-f5044097a664.png">
+</p>
+
 # Minkle's Safari Guide to V+: Restoration Druid
 
 Maybe you've seen some guy with a Hamtaro picture with a leaf on his head posting in Druid and other class channels, well instead of reposting my guide every other week for new players its time we have a stable home for people to check back to. Welcome to my Safari Guide to V+
