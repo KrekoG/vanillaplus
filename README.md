@@ -846,7 +846,7 @@ The official bug reporting tool can be found [here](https://github.com/VanillaPl
 The guides in this sections are made by the community. This is just an attempt to gather them in one place. If you are up for it, think you know what you are doing and want to share your wisdom, write your own guide and it will likely show up here.
 
 Druid:
- - [Minkle's Safari Guide to V+: Restoration Druid](./Guides//Minkle's%20Safari%20Guide%20to%20V%2B:%20Restoration%20Druid.md)
+ - [Minkle's Safari Guide to V+: Restoration Druid](./Guides/Minkle/Minkles_Safari_Guide_to_V_plus_Restoration_Druid.md)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1638449/150676674-635d9298-4ea9-4d04-8d58-f7adf6c76a41.png">
