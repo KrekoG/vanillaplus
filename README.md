@@ -483,10 +483,10 @@ It's also a lot of work... Just ask the others in the discord if you are curious
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/1638449/152660295-227bd1ef-f921-42b4-ad4f-d76d73c71710.png"><br/>
-        <b>Long Reach</b><br/>
-        Melee attack range is increased by 2 yds<br/>
-        <i>While this in not shown in the Spellbook, it is easily testable in a duel.</i>
+        <img src="https://user-images.githubusercontent.com/1638449/156921600-5b0b9317-87fa-462e-8d65-376c4baf38af.png"><br/>
+        <b>Fat Cow</b><br/>
+        The melee attack range is increased by 2 yds, but can also be hit from 2 yds further away.<br/>
+        <i>This is due to their bigger character model.</i>
       </td>
       <td>
         <img src="https://user-images.githubusercontent.com/1638449/152653142-0c253f1d-b04b-4f77-92c1-d3155b7cb77f.png"><br/>
