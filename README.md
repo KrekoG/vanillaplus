@@ -817,16 +817,94 @@ The server is free to play but the necessary upkeep is not. Donations are welcom
 
 ![image](https://user-images.githubusercontent.com/1638449/152032313-47ffd376-1a5c-4fee-a9e6-1cd514a3cf2f.png)
 
-<details>
-  <summary>Here are some examples of said possible supporter rewards</summary>
+##### Here is the list of the possible supporter rewards
 
-  ##### Ogre's Bum Bag (36 slot)
+<details>
+
+  <summary>General</summary>
+
+  ##### Character Management: Rename 100
+
+  ##### Character Management: Change Look 160
+
+  ##### Character Management: Change Race 180
+
+  ##### Character Management: Change Faction 200
+
+  ##### Superspace Arcane Box (28 slot) 160
+
+  ##### Ogre's Bum Bag (32 slot) 200
 
   ![image](https://user-images.githubusercontent.com/1638449/152030177-72f65337-9ae4-407a-876b-0c292b0dc2c2.png)
 
-  ##### Summonable Caravan Mule (Bank)
+  ##### Summonable Caravan Mule (Bank) 200
 
   ![image](https://user-images.githubusercontent.com/1638449/152029125-882e1fbc-bc1c-4e98-9ca0-5b1f53b76ac9.png)
+
+  ##### Summonable Mechanical Auctioneer 200
+
+  ##### Summonable Repair Bot Servo R2 200
+
+</details>
+<details>
+  <summary>Pets</summary>
+
+  ##### Diablo Stone 50
+  ##### Hippogryph Hatchling 50
+  ##### Polar Bear Collar 50
+  ##### Blue Murloc Egg 50
+  ##### Pink Murloc Egg 50
+  ##### Baby Shark 50
+  ##### Panda Collar 50
+  ##### Zergling Leash 50
+  ##### Red Dragon Orb 50
+  ##### Green Dragon Orb 50
+
+</details>
+<details>
+  <summary>Mounts</summary>
+
+  ##### Riding Turtle 160
+  ##### Swift Dawnsaber 200
+  ##### Bengal Tiger 180
+  ##### Tawny Sabercat 160
+  ##### Ivory Raptor 200
+  ##### Spectral Tiger 250
+  ##### Riding Unicorn 160
+  ##### Polar Bear 300
+
+</details>
+<details>
+  <summary>Tabards</summary>
+
+  ##### Tabard of Frost 180
+  ##### Tabard of Flame 180
+  ##### Epic Purple Tabard 180
+  ##### Darkmoon Faire Tabard 180
+  ##### Stormgarde Tabard 140
+  ##### Kul'Tiras Tabard 140
+  ##### Theramore Tabard 140
+  ##### Dalaran Tabard 140
+  ##### Crimson Legion Tabard 140
+  ##### Hearthglen Tabard 140
+  ##### Hillsbrad Tabard 140
+
+</details>
+<details>
+  <summary>Skins</summary>
+
+  ##### Dwarf: Wildhammer 100
+  ##### Dwarf: Dark Iron 100
+  ##### Dwarf: Earthen (male only) 100
+  ##### Orc: Blackrock Clan 100
+  ##### Orc: Chaos (male only) 100
+  ##### Orc: Mag'Har (male only) 100
+  ##### Troll: Forest 100
+  ##### Troll: Sandfury 100
+  ##### Troll: Dark 100
+  ##### Troll: Ice 100
+  ##### Human: Cultist 100
+
 </details>
 
 #### Advertising
