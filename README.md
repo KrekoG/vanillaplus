@@ -1004,7 +1004,10 @@ https://denniswg.github.io/Roid-Macros/
 
 #### Mouseover macros
 
+##### With an addon
+
 credit - Thirinena
+
 ```
 You'll need an addon to enable it https://github.com/satan666/LazySpell.
 Classic mouseover and bonus scanner are needed for it AFAIK,
@@ -1012,6 +1015,15 @@ so it's the only one you'll have to extract from the lazyspell-master
 folder if you're not interested in the others.
 Use the slashcommand /cmcast [Spell name here](no brackets)
 or the CM:Cast("[Spell name here](without brackets)" function
+```
+
+##### With scripting
+
+credit - ! Johnny Gat !
+
+In this example the macro will make you cast `Lesser Healing Wave` on the unit under your mouse, or if none is found, on your actual target
+```
+/run s="Lesser Healing Wave" m="mouseover" T=TargetUnit C=CastSpellByName if UnitExists(m) then T(m) C(s) T("playertarget") else C(s) end
 ```
 
 ### Other modifications
