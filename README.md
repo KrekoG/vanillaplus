@@ -1026,6 +1026,16 @@ In this example the macro will make you cast `Lesser Healing Wave` on the unit u
 /run s="Lesser Healing Wave" m="mouseover" T=TargetUnit C=CastSpellByName if UnitExists(m) then T(m) C(s) T("playertarget") else C(s) end
 ```
 
+#### Casting level appropriate buffs
+
+A macro to cast the appropriate level `Arcane Intellect` buff, so we can avoid that pesky "Target is too low level" error.
+
+```
+/run b,C,l="Arcane Intellect(Rank ",CastSpellByName,UnitLevel("target") if l>45 then C(b.."5)") elseif l>31 then C(b.."4)") elseif l>17 then C(b.."3)") elseif l>9 then C(b.."2)") else C(b.."5)") end
+```
+
+To change it to another buff, just modify the "Arcane Intellect(Rank" bit, look up at what level said buff at a certain rank is learnable, (for example [here](https://classicdb.ch/?search=arcane+intellect#spells:0+2+1)) take away 11, and use that in the comparison parts (like in this case l>45 means that lvl 46 and above you can use rank 5 int buff as it becomes learnable at lvl 56 and 56-11=45
+
 ### Other modifications
 
 These are patches that changes the way the game looks. Use them with care, some may not remain always compatible, as they are not maintained by the sever, or the community. To make sure the load order does not break, ensure that the name of the file is later in the alphabetical order than `patch-3.MPQ`. (For example `patch-A.MPQ`)
