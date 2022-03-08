@@ -1002,8 +1002,15 @@ https://denniswg.github.io/Roid-Macros/
 
 [Here](https://forum.elysium-project.org/topic/23521-vanilla-startattack-macro/) is another forum entry with a spammable start attack button that you can combo with other abilities.
 
+#### Stop-attack macro
+
+```/run ClearTarget() TargetLastTarget()```
+
 #### Mouseover macros
 
+<details>
+  <summary>Click here to see more</summary>
+  
 ##### With an addon
 
 credit - Thirinena
@@ -1025,9 +1032,19 @@ In this example the macro will make you cast `Lesser Healing Wave` on the unit u
 ```
 /run s="Lesser Healing Wave" m="mouseover" T=TargetUnit C=CastSpellByName if UnitExists(m) then T(m) C(s) T("playertarget") else C(s) end
 ```
+  
+In this example the macro will check if your mousover target is friendly, and if so, cast `Lesser Healing Wave` on them. Otherwise it casts it on the player themself.
+  
+```
+/run s="Lesser Healing Wave" m="mouseover" T=TargetUnit C=CastSpellByName if UnitExists(m) and UnitIsFriend("player", m) then T(m) else T("player")end C(s) T("playertarget")
+```
+
+</details>
 
 #### Casting level appropriate buffs
 
+<details>
+  <summary>Click here to see more</summary>
 A macro to cast the appropriate level `Arcane Intellect` buff, so we can avoid that pesky "Target is too low level" error.
 
 ```
@@ -1035,6 +1052,8 @@ A macro to cast the appropriate level `Arcane Intellect` buff, so we can avoid t
 ```
 
 To change it to another buff, just modify the "Arcane Intellect(Rank" bit, look up at what level said buff at a certain rank is learnable, (for example [here](https://classicdb.ch/?search=arcane+intellect#spells:0+2+1)) take away 11, and use that in the comparison parts (like in this case l>45 means that lvl 46 and above you can use rank 5 int buff as it becomes learnable at lvl 56 and 56-11=45
+
+</details>
 
 ### Other modifications
 
