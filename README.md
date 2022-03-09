@@ -717,6 +717,8 @@ Released battlegrounds:
 - Arathi Basin
 - Azshara Crater
 
+The Honor resets on Tuesday midnight (CET).
+
 To incentivise PVP, you get one mark per hour for queueing. Furthermore you may buy flasks with your marks. When there aren't enough players for the battleground to continue, it closes down, rewarding one of the teams randomly with 3 marks, regardless of the state of the match.
 
 You may join the queue from anywhere, by typing `.wsg`, `.ab` or `.ac`. This summons an invisible npc to talk to you. Beware though, once your battleground is finished, you will get teleported back to place where you joined the queue.
