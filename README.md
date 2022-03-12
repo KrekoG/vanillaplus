@@ -827,13 +827,23 @@ The server is free to play but the necessary upkeep is not. Donations are welcom
 
   ##### Character Management: Rename 100
 
+  ![image](https://user-images.githubusercontent.com/1638449/158025420-822d1249-382f-458f-9b79-11c096083061.png)
+  
   ##### Character Management: Change Look 160
 
+  ![image](https://user-images.githubusercontent.com/1638449/158025449-4d5cd353-8e13-4eec-bb9a-29d2d0faa589.png)
+  
   ##### Character Management: Change Race 180
+  
+  ![image](https://user-images.githubusercontent.com/1638449/158025516-5dbce286-1e37-424a-b664-79568a26f2ae.png)
 
   ##### Character Management: Change Faction 200
+  
+  ![image](https://user-images.githubusercontent.com/1638449/158025551-89990784-a3a1-4323-829a-2f8d34d02bb0.png)
 
   ##### Superspace Arcane Box (28 slot) 160
+  
+  ![image](https://user-images.githubusercontent.com/1638449/158025622-fc35b899-f4ec-457d-8d86-2a79f4f2e93f.png)
 
   ##### Ogre's Bum Bag (32 slot) 200
 
