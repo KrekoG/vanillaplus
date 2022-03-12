@@ -870,9 +870,18 @@ The server is free to play but the necessary upkeep is not. Donations are welcom
   ![image](https://user-images.githubusercontent.com/1638449/158026199-e66bf4b9-e650-44db-8f57-0e13c7587184.png)
   
   ##### Hippogryph Hatchling 50
+
+  ![image](https://user-images.githubusercontent.com/1638449/158026310-f9e16d83-3ff6-4693-a949-7e7ff865f4e9.png)
+
   ##### Polar Bear Collar 50
+  
+  ![image](https://user-images.githubusercontent.com/1638449/158026369-de7ec1ad-f44f-4f5e-bfa7-4d7ce5e10d7d.png)
+
   ##### Blue Murloc Egg 50
   ##### Pink Murloc Egg 50
+
+  ![image](https://user-images.githubusercontent.com/1638449/158026464-f9fdc6f6-7878-4201-be46-fda19efc7fa4.png)
+
   ##### Baby Shark 50
   ##### Panda Collar 50
   ##### Zergling Leash 50
