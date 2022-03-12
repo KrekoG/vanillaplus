@@ -859,7 +859,7 @@ The server is free to play but the necessary upkeep is not. Donations are welcom
   
   ##### Summonable Repair Bot Servo R2 200
   
-  ![image](https://user-images.githubusercontent.com/1638449/158025870-65791c2d-b694-498c-9990-b2d16419fb2f.png)
+  ![image](https://user-images.githubusercontent.com/1638449/158026005-15ea5fcb-de85-444c-bcc5-99b8d875c3c1.png)
 
 </details>
 <details>
