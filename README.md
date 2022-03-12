@@ -866,6 +866,9 @@ The server is free to play but the necessary upkeep is not. Donations are welcom
   <summary>Pets</summary>
 
   ##### Diablo Stone 50
+
+  ![image](https://user-images.githubusercontent.com/1638449/158026199-e66bf4b9-e650-44db-8f57-0e13c7587184.png)
+  
   ##### Hippogryph Hatchling 50
   ##### Polar Bear Collar 50
   ##### Blue Murloc Egg 50
