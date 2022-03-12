@@ -843,8 +843,8 @@ The server is free to play but the necessary upkeep is not. Donations are welcom
 
   ##### Superspace Arcane Box (28 slot) 160
   
-  ![image](https://user-images.githubusercontent.com/1638449/158025622-fc35b899-f4ec-457d-8d86-2a79f4f2e93f.png)
-
+  ![image](https://user-images.githubusercontent.com/1638449/158027051-579691f1-5639-40cc-8440-7935a8ecd15d.png)
+  
   ##### Ogre's Bum Bag (32 slot) 200
 
   ![image](https://user-images.githubusercontent.com/1638449/152030177-72f65337-9ae4-407a-876b-0c292b0dc2c2.png)
