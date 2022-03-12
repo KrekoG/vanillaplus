@@ -855,7 +855,11 @@ The server is free to play but the necessary upkeep is not. Donations are welcom
 
   ##### Summonable Mechanical Auctioneer 200
 
+  ![image](https://user-images.githubusercontent.com/1638449/158025845-bf6e9ba8-e795-4350-b545-b821e97a00f5.png)
+  
   ##### Summonable Repair Bot Servo R2 200
+  
+  ![image](https://user-images.githubusercontent.com/1638449/158025870-65791c2d-b694-498c-9990-b2d16419fb2f.png)
 
 </details>
 <details>
