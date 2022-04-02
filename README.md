@@ -986,6 +986,9 @@ The guides in this sections are made by the community. This is just an attempt t
 Druid:
  - [Minkle's Safari Guide to V+: Restoration Druid](./Guides/Minkle/Minkles_Safari_Guide_to_V_plus_Restoration_Druid.md)
 
+Warlock:
+- [Scyn & Honeonna's Warlock Spreadsheet](https://docs.google.com/spreadsheets/d/1d4ijR9XF5xqwaD-g7ZbbokYmL4CWKcMPBxdLuTrbvoc/edit#gid=0)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1638449/150676674-635d9298-4ea9-4d04-8d58-f7adf6c76a41.png">
 </p>
