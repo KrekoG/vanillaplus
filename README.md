@@ -869,6 +869,7 @@ You may also want to check the pinned messages of the #addons channel and may as
 - [BetterCharacterStats](https://github.com/Borcsa134/BetterCharacterStats)
 - [SkelaCustomNameplates](https://github.com/KrekoG/SkelaCustomNameplates)
 - [SpecialTalentUI](https://github.com/KrekoG/SpecialTalentUI)
+- [TotemTimers](https://github.com/KrekoG/TotemTimers)
 - [WIIIUI](https://github.com/Fiurs-Hearth/WIIIUI)
 
 #### Lists of other resources:
