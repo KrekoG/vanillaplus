@@ -119,6 +119,7 @@ You can't find your monitors resolution in the video settings of the game
 #### Solution:
 
 - Same steps as for [My screen turned to black](#my-screen-turned-to-black) below
+- You might also try the [Custom Resolution Utility](https://custom-resolution-utility.en.lo4d.com/windows) as detailed in [here](https://imgur.com/a/uRwHkkG)
 
 ### My screen turned to black
 
