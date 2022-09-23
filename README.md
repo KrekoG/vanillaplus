@@ -674,6 +674,7 @@ Type `.server info` in game. The response will let you know the current active p
 - Upper Blackrock Spire (15 players)
 - Onyxia's Lair (40 players)
 - Molten Core (40 players)
+- Zul'Gurub (40 players)
 - Dire Maul (10 players)
 - Azuregos (world boss)
 - Lord Kazzak (world boss)
