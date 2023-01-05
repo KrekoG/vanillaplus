@@ -410,7 +410,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <td colspan="2">
         <img src="https://user-images.githubusercontent.com/1638449/152652812-980504b1-52b0-436d-beb4-4c3713fdb223.png"><br/>
         <b>Blood Fury</b><br/>
-        Increases your chance to get a critical strike with all attacks and spells by 15% for 20 sec but reduces healing effects on you by 25%. <i>Instant cast, 5 min cooldown</i>
+        Increases your chance to get a critical strike with all attacks and spells by 15% for 20 sec but reduces healing effects on you by 25%. <i>Instant cast, 3 min cooldown</i>
       </td>
       <td colspan="2">
       </td>
@@ -438,7 +438,7 @@ It's also a lot of work... Just ask the others in the discord if you are curious
       <td>
         <img src="https://user-images.githubusercontent.com/1638449/152653005-925ab2af-5b81-4c95-ba11-27434700e13f.png"><br/>
         <b>Fake Death</b><br/>
-        Feign death which may trick enemies into ignoring you. Lasts up to 30 sec. While inside dungeons, all threat is restored upon end of this effect.<br/>
+        Feign death which may trick enemies into ignoring you. Lasts up to 30 sec. While inside dungeons, all threat is restored upon end of this effect and lasts 10 sec.<br/>
         <i>Instant cast, 5 min cooldown.</i>
       </td>
     </tr>
