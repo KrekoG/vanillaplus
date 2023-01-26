@@ -863,6 +863,7 @@ You may also want to check the pinned messages of the #addons channel and may as
 #### Server specific addons:
 - [AtlasLoot Enhanced for Vanilla+](https://github.com/hawaiisa/Atlas)
 - [BloodlustHelper](https://github.com/KrekoG/BloodlustHelper)
+- [FlightMap](https://github.com/KrekoG/FlightMap)
 - [pfUI Vanilla Plus](https://github.com/heroclastus09/pfui-vanillaplus)
 - [pfQuest Vanilla Plus](https://github.com/hawaiisa/pfQuest-vanillaplus)
 - [V+Actions](https://github.com/Johnny-Gat/VanillaPlus-Actions)
