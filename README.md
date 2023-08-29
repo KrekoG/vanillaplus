@@ -675,7 +675,7 @@ Type `.server info` in game. The response will let you know the current active p
 - Onyxia's Lair (40 players)
 - Molten Core (40 players)
 - Dire Maul (10 players)
-- Zul'Gurub (40 players)
+- Zul'Gurub (20 players)
 - Azuregos (world boss)
 - Lord Kazzak (world boss)
 - Kurinnaxx (world boss)
