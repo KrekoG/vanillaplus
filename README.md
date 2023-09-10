@@ -871,11 +871,11 @@ You may also want to check the pinned messages of the #addons channel and may as
 #### Addons maintained by the community:
 - [ag_UnitFrames](https://github.com/KrekoG/ag_UnitFrames)
 - [BetterCharacterStats](https://github.com/Borcsa134/BetterCharacterStats)
+- [Hardiness](https://github.com/Bestoriop/Hardiness)
 - [SkelaCustomNameplates](https://github.com/KrekoG/SkelaCustomNameplates)
 - [SpecialTalentUI](https://github.com/KrekoG/SpecialTalentUI)
 - [TotemTimers](https://github.com/KrekoG/TotemTimers)
 - [WIIIUI](https://github.com/Fiurs-Hearth/WIIIUI)
-- [Hardiness](https://github.com/Bestoriop/Hardiness)
 
 #### Lists of other resources:
 - [decaedent.github.io/wow/](https://decaedent.github.io/wow/vadp.html)
