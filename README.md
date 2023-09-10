@@ -71,7 +71,7 @@ Contents of this guide:
   - If you are a Mac user, make sure the extension of the patch file is capitalised, ending up with `<wow folder>/Data/patch-3.MPQ`
 - Make sure the `Clear WDB on launch` option is ticket below the `Play` button
 - Click `Play` to log in and enjoy the game
-  - Starting the game will create your `<wow folder>\Interface\AddOns` folder.
+  - Starting the game will create your `<wow folder>\Interface\s` folder.
 
 ### Not using the launcher
 
@@ -142,7 +142,7 @@ SET gxRefresh "60"
 
 Credit to: Admarel, Chuck, [Thirinena](https://github.com/hawaiisa), and so many more people...
 
-### My addons don't work properly
+### My s don't work properly
 
 Read all the points, if none of them applies, ask for help in the support or addons channel
 
@@ -875,6 +875,7 @@ You may also want to check the pinned messages of the #addons channel and may as
 - [SpecialTalentUI](https://github.com/KrekoG/SpecialTalentUI)
 - [TotemTimers](https://github.com/KrekoG/TotemTimers)
 - [WIIIUI](https://github.com/Fiurs-Hearth/WIIIUI)
+- [Hardiness](https://github.com/Bestoriop/Hardiness)
 
 #### Lists of other resources:
 - [decaedent.github.io/wow/](https://decaedent.github.io/wow/vadp.html)
