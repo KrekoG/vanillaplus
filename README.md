@@ -676,6 +676,7 @@ Type `.server info` in game. The response will let you know the current active p
 - Molten Core (40 players)
 - Dire Maul (10 players)
 - Zul'Gurub (20 players)
+- Blackwing Lair (40 players)
 - Azuregos (world boss)
 - Lord Kazzak (world boss)
 - Kurinnaxx (world boss)
